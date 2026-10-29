@@ -1,0 +1,544 @@
+[
+ {
+  "h": "Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Counselling has grown, in little more than a century, from a scattered set of vocational and moral guidance practices into a distinct helping profession with its own definitions, ethical codes, theoretical models, and evidence-based skill sets (Gladding, 2018). This paper uses Allen Ivey's microskills hierarchy as an organizing blueprint, since the pyramid itself moves from the foundational (ethics, multicultural competence, neuroscience) through attending and listening skills to influencing skills and, at its apex, to the integration of skills into a personal style and, ultimately, to what Ivey and colleagues call transcendence: \"your capacity to go beyond yourself and successfully apply your newly mastered skills to help others\" (Ivey et al., 2018). Taking transcendence as a guiding metaphor, this paper does not stop at reproducing any single author's model. It begins with the foundations of the profession, definitions, goals, ethics, and history, moves into the Indian context and the person-centred conditions that most models of counselling silently assume, works systematically through Ivey's microskills, compares the major stage models of the helping process (Ivey, Egan, Brammer and Shostrom, and Carkhuff), and closes with the influencing skills, the characteristics of an effective counsellor, and a direct comparison of Gladding's and Ivey's positions on the field. The aim, in short, is to go beyond a single textbook's account and build an integrated picture of what counselling is and how it is done."
+   }
+  ]
+ },
+ {
+  "h": "Definition of Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Counselling resisted a single, agreed definition for most of its history. Gladding (2018) notes that the word \"counselor\" was for decades attached to unrelated commercial roles, so that one heard of \"carpet counselors, color coordination counselors, pest control counselors, financial counselors, camp counselors,\" professionals who were, in his words, \"to professional counseling what furniture doctors are to medicine\". A workable consensus definition did not arrive until 2010, when 29 counselling associations, including the American Counseling Association (ACA) and all but two of its then 19 divisions, reached agreement through a three-year consultative process known as 20/20: A Vision for the Future of Counseling. The resulting definition states that \"counseling is a professional relationship that empowers diverse individuals, families, and groups to accomplish mental health, wellness, education, and career goals\" (as cited in Gladding, 2018)."
+   },
+   {
+    "t": "p",
+    "x": "Four implications follow from this definition, and Gladding (2018) draws them out explicitly. First, counselling addresses wellness, personal growth, career, education, and empowerment concerns rather than pathology alone. Second, it is conducted with individuals, groups, and families across every stratum of society. Third, it is inherently diverse and multicultural, since counsellors work with clients of varied cultural backgrounds and life stages. Fourth, counselling is a dynamic process: it does not merely identify a client's goals but actively helps the client accomplish them, so that, in Gladding's memorable phrase drawn from Casey (1996), \"counseling is a rehearsal for action\", whether that action is internal (thoughts and feelings) or external (behaviour)."
+   }
+  ]
+ },
+ {
+  "h": "Counselling, Guidance, Psychotherapy, and Coaching",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Because counselling grew out of the guidance movement and continues to overlap with psychotherapy and, more recently, with coaching, distinguishing among the four is a routine first task in the literature (Gladding, 2018; Ivey et al., 2018)."
+   },
+   {
+    "t": "p",
+    "x": "Guidance is the oldest and narrowest of the four terms. It refers to the process of helping people make important choices, most classically vocational or educational choices, and it historically operated in an unequal relationship in which a more experienced adult (a teacher, parent, or counsellor) helped a less experienced person find direction (Gladding, 2018). Gladding observes that the term itself has \"gone the way of 'consumption' in medicine\" (Tyler, 1986, as cited in Gladding, 2018): it retains historical importance but limited present-day technical use, since guidance is only one part of what professional counselling now offers."
+   },
+   {
+    "t": "p",
+    "x": "Psychotherapy has traditionally addressed more serious, often intrapsychic disturbance, delusions, entrenched personality difficulties, and long-standing internal conflict, and it has historically been distinguished from counselling along four lines: an emphasis on the past rather than the present, on insight rather than change, on a more detached therapist stance, and on the therapist as expert (Gladding, 2018). Psychotherapy has also tended to be longer in duration (twenty to forty sessions over six months to two years, compared with eight to twelve shorter-term counselling sessions) and more closely associated with inpatient settings. Gladding is careful to note, however, that \"in more modern times, the distinction between psychotherapy and counseling has blurred\", to the point that many practitioners and even theories (psychoanalysis among them) are described using both labels interchangeably."
+   },
+   {
+    "t": "p",
+    "x": "Coaching, the most recent of the four, is best understood, in Gladding's (2018) treatment, as a form of individual consultation rather than counselling proper. In coaching, \"outside experts in human services or the helping professions... work with individuals, often in business, to assist them in becoming more insightful and aware of what they are doing and what they could do better\" (p. 229). Coaching is future-and performance-oriented, is typically delivered to functioning (non-clinical) clients, most often in organisational or executive contexts, and has its own credentialing body (the Center for Credentialing and Education's Board Certified Coach). Unlike counselling, coaching does not presuppose psychological distress; it presupposes a client who is already functioning but wants to function better."
+   },
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) approach the same distinctions from the standpoint of goals rather than history. For Ivey, counselling and psychotherapy share the aim of client self-actualization, \"becoming more fully what one is capable of becoming\", a goal drawn jointly from Carl Rogers and Abraham Maslow, and crucially a goal that is always understood \"in relationship to others\" and to the client's cultural and environmental context. Where guidance is a single-episode act of direction-giving and coaching is a performance-oriented consultation, counselling and psychotherapy, in Ivey's view, are relationship-based processes aimed at durable, self-directed change."
+   }
+  ]
+ },
+ {
+  "h": "Goals of Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Gerard Egan's (2014) treatment of the goals of helping is the most systematic account among the sources reviewed here, and it is organised around three outcome-focused goals rather than around techniques. Goal One is life-enhancing outcomes for the client: helping clients \"manage their problems in living more effectively and develop unused or underused resources and opportunities more fully at the service of life-enhancing outcomes\" (Egan, 2014). Egan is careful to note that helpers do not control these outcomes directly; they can only help clients see the need for change, since ultimately \"clients can choose to live more effectively or not\". Goal Two is learning how to help oneself: helping clients \"become better at helping themselves in their everyday lives\", so that a good counsellor is, in Nelson-Jones's words (as cited in Egan, 2014), one who succeeds \"in skilling clients\" rather than one who simply solves problems for them. Goal Three is developing a prevention mentality: helping clients anticipate problem situations rather than merely manage them once they arise, on the logic that, as with physical health, \"every dollar spent in prevention saves, by some estimates, ten in cure\" (Egan, 2014)."
+   },
+   {
+    "t": "p",
+    "x": "Egan (2014) also insists that helping is not only about fixing what is broken. Drawing on the positive psychology movement (Seligman & Csikszentmihalyi, 2000, as cited in Egan, 2014), he notes that clients often come not with problems but with \"missed opportunities and unused potential\", and that a purely deficit-focused view of goals misses half of what counselling can do: \"psychology is not just the study of pathology, weakness, and damage; it is also the study of strength and virtue. Treatment is not just fixing what is broken; it is nurturing what is best\" (Seligman & Csikszentmihalyi, 2000, as cited in Egan, 2014)."
+   },
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) frame the goal of counselling and psychotherapy in a single overarching construct, resilient self-actualization, understood as growth that is always relational rather than purely individual: \"clients and their cultural backgrounds were unique\" and self-actualization must be pursued \"in relation to others and their cultural/environmental context\". Gladding's (2018) definition-based goals (mental health, wellness, education, and career accomplishment) and Egan's three outcome-focused goals converge on the same basic point from different directions: counselling aims not at insight for its own sake but at durable, self-directed, life-enhancing change that clients can eventually sustain without the counsellor."
+   }
+  ]
+ },
+ {
+  "h": "Ethics in Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Professional codes of ethics exist, in Gladding's (2018) account, because \"without a code of established ethics, a group of people with similar interests cannot be considered a professional organization\" (Allen, 1986, as cited in Gladding, 2018). Van Hoose and Kottler (1985, as cited in Gladding, 2018) identify three functions such codes serve: they protect the profession from government interference by allowing it to regulate itself; they reduce internal disagreement by giving members a common standard; and they protect practitioners from the public by codifying acceptable practice, particularly with respect to malpractice."
+   },
+   {
+    "t": "p",
+    "x": "Gladding (2018) also lists six ethical principles that guide counsellors' decision-making, drawn from Hermann (2011b) and Remley and Herlihy (2016): beneficence (doing good and preventing harm), nonmaleficence (not inflicting harm), autonomy (respecting freedom of choice and self-determination), justice (fairness), fidelity (honouring commitments and promises), and veracity (truthfulness). Of these, several authorities treat nonmaleficence as primary, since it covers not only the removal of present harm but \"the prevention of future harm, and passive avoidance of harm\" (Thompson, 1990, as cited in Gladding, 2018) and underlies a counsellor's duty to act when a client threatens to harm themselves or others."
+   },
+   {
+    "t": "p",
+    "x": "Ethical codes are not, however, a complete guide to practice. Gladding (2018) lists several well-documented limitations: some dilemmas cannot be resolved by a code at all; codes are difficult to enforce; provisions within a single code can conflict with one another; codes are historical documents, so that \"what may be acceptable practice at one time may be considered unethical later\"; and codes do not always address cross-cultural situations. Because of these gaps, Swanson (1983a, as cited in Gladding, 2018) proposes four practical guidelines for acting ethically even where a code is silent: personal and professional honesty, acting in the client's best interest, acting without malice or personal gain, and being able to justify an action as consistent with the current state of the profession."
+   },
+   {
+    "t": "p",
+    "x": "Egan's (2014) treatment of ethics is philosophically rather than procedurally oriented. He deliberately avoids reducing ethics to a short checklist, arguing that \"any kind of abbreviated overview would send the wrong message\" precisely because ethics is foundational rather than incidental to helping. Following Handelsman, Knapp, and Gottlieb (2009, as cited in Egan, 2014), he distinguishes mandatory ethics, the avoidance of harm and rule violation, from aspirational, or \"positive,\" ethics, which \"shifts the emphasis from following rules and avoiding discipline to encouraging psychologists to aspire to their highest ethical ideals\". Citing Corey directly, Egan (2014) summarises the aspirational stance in a single line: \"Ethics is a way of thinking about becoming the best practitioner possible\" (Corey, 2008, as cited in Egan, 2014)."
+   }
+  ]
+ },
+ {
+  "h": "The Institutional Home of Counselling Ethics: Division 17",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "The professional infrastructure that eventually produced these ethical codes traces back to a specific institutional moment. In 1952, the Society of Counseling Psychology, initially called the Division of Counseling Psychology and now Division 17 of the American Psychological Association (APA), was formally established (Gladding, 2018). Its formation required the association to drop the word \"guidance\" from what had been its Counseling and Guidance Division, and while the Veterans Administration supplied part of the impetus, \"the main impetus came from APA members interested in working with a more 'normal' population than the one seen by clinical psychologists\" (Whiteley, 1984, as cited in Gladding, 2018, p. 433). Donald Super (1955, as cited in Gladding, 2018) went on to draw the definitive line between the two specialties, holding that counselling psychology was concerned with normal human growth and development and was shaped jointly by vocational counselling and humanistic psychotherapy, whereas clinical psychology remained oriented toward pathology. Division 17's own ethical guidance, developed alongside the ACA's code, has since become one of the two major reference points, together with the ACA Code of Ethics, that counsellors in North America consult, and Gladding (2018) notes that where a counsellor holds membership in both APA and ACA, the two codes can occasionally give different guidance, for example on the minimum interval before a former client may be dated (two years under the APA code, five years under the ACA code), which is itself an illustration of why ethical codes must be read as guidelines rather than as complete answers."
+   }
+  ]
+ },
+ {
+  "h": "History of Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Gladding (2018) locates the origin of counselling in the \"socially turbulent period\" (Ginter, 2002, as cited in Gladding, 2018, p. 427) spanning the late 1890s and early 1900s, when the humanitarian fallout of the Industrial Revolution, the spread of public education, and mass immigration together created a demand for a new kind of helper. Three figures dominate the first decade. Frank Parsons, often called the founder of guidance, combined careers as a lawyer, engineer, college teacher, and social worker before founding Boston's Vocational Bureau in 1908, the first institutionalised site of vocational guidance; his posthumously published Choosing a Vocation (1909) proposed that vocational choice was a matter of relating knowledge of self, knowledge of work, and \"true reasoning\" between the two (Gladding, 2018). Jesse B. Davis, superintendent of the Grand Rapids, Michigan school system, set up the first systematised school guidance programme in 1907, having English composition teachers deliver weekly guidance lessons. Clifford Beers, a former Yale student repeatedly hospitalised for depression, exposed poor conditions in mental institutions in his best-selling memoir A Mind That Found Itself (1908) and became, through his advocacy, \"the impetus for the mental health movement in the United States\" (Gladding, 2018, p. 429)."
+   },
+   {
+    "t": "p",
+    "x": "The 1910s brought the founding of the National Vocational Guidance Association (1913), the forerunner of today's ACA; the Smith-Hughes Act (1917), which funded vocational education in public schools; and World War I, during which the U.S. Army's Alpha and Beta intelligence tests popularised psychometric testing as a foundation for the emerging profession (Gladding, 2018). In the 1930s, E. G. Williamson, working from the \"Minnesota point of view,\" developed the first formal theory of counselling, a directive, counsellor-centred, trait-and-factor approach built on the premise that people possess traits that can be matched, through a scientific, problem-solving process, to appropriate vocations (Gladding, 2018)."
+   },
+   {
+    "t": "p",
+    "x": "The single most consequential decade, in Gladding's (2018) assessment, was the 1940s, and the single most consequential event within it was the 1942 publication of Carl Rogers's Counseling and Psychotherapy, which directly challenged Williamson's counsellor-centred model and the major tenets of Freudian psychoanalysis. Rogers proposed a non-directive approach that gave clients, rather than counsellors, responsibility for their own growth, on the premise that if clients experienced acceptance and were truly listened to, they would come to know themselves more fully and become more congruent (Gladding, 2018). Aubrey (1977, as cited in Gladding, 2018) observes that before Rogers, the counselling literature was mostly practical (testing, records, placement); after Rogers, the field's attention shifted decisively toward the counselling relationship itself, and \"guidance, for all intents and purposes, suddenly disappeared as a major consideration\" (p. 432) in the professional literature."
+   },
+   {
+    "t": "p",
+    "x": "The 1950s then produced, in Gladding's (2018) words, \"the most profound impact on counselors\" of any decade (Aubrey, 1977, as cited in Gladding, 2018, p. 432), through five near-simultaneous developments: the founding of the American Personnel and Guidance Association (APGA) in 1952; the chartering of the American School Counselor Association in 1953; the establishment, also in 1952, of Division 17 within the APA; the passage of the National Defense Education Act (NDEA) in 1958, a direct response to the Soviet Union's launch of Sputnik I, which funded school counselling institutes and quadrupled the number of school counsellors within a decade; and the introduction of new counselling theories more broadly. From this institutional base, counselling continued to professionalise through the later twentieth century: state licensure of counsellors is now universal across the United States, and the profession, in Gladding's summary, has moved decisively \"from a strong entity with a distinct identity\" concerned narrowly with vocational placement to one addressing \"development, prevention, wellness, and remediation\" across the full life span (2018, p. 424)."
+   }
+  ]
+ },
+ {
+  "h": "Counselling in the Indian Context",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "While the profession's institutional history, described above, is largely a North American narrative, counselling in India developed along a related but locally shaped trajectory, most influentially described in S. Narayana Rao's Counselling Psychology (Rao, 1981, as cited in the counselling psychology curricula that draw on it), a text that remains a standard reference for Indian counselling-psychology training. Rao situates counselling within the older Indian traditions of guidance offered by elders, teachers (the guru), and religious figures, while distinguishing modern professional counselling from these informal, hierarchical relationships by its emphasis on a scientifically grounded, egalitarian, and confidential helping relationship between a trained counsellor and a client."
+   },
+   {
+    "t": "p",
+    "x": "Central to this account is a scientific definition of rapport, the working alliance that must be established before any of the technical skills described later in this paper (attending, questioning, reflecting) can be effective. In the Indian counselling-psychology tradition that Rao's text represents, rapport is defined not as mere friendliness but as a measurable, purposeful state of mutual trust, comfort, and cooperative engagement between counsellor and client, established deliberately through consistent attending behaviour, unconditional acceptance, and the counsellor's demonstrated respect for the client's cultural and family context. This scientific framing matters because it treats rapport-building as a teachable, assessable counselling skill rather than as an incidental by-product of a counsellor's personality, a position entirely consistent with Ivey's later, more granular treatment of attending behaviour (Ivey et al., 2018) and with Rogers's core conditions (Rogers, 1957, as cited in Corey, 2013), discussed in the next section. In the Indian setting specifically, establishing rapport typically requires additional sensitivity to family involvement in decision-making, to hierarchical communication norms between younger clients and older counsellors, and to the stigma that can still attach to seeking psychological help, factors that make the deliberate, skill-based building of rapport, rather than an assumption of instant openness, especially important."
+   }
+  ]
+ },
+ {
+  "h": "Carl Rogers's Core Conditions",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Rogers's (1957, as cited in Corey, 2013) hypothesis of the \"necessary and sufficient conditions for therapeutic personality change\" remains, more than sixty years later, the single most influential statement of what makes a helping relationship work. Rogers held that \"if I can provide a certain type of relationship, the other person will discover within himself or herself the capacity to use that relationship for growth and change, and personal development will occur\" (Rogers, 1961, as cited in Corey, 2013). He formalised this hypothesis into six conditions, cited in Corey (2013):"
+   },
+   {
+    "t": "ul",
+    "items": [
+     "Two persons are in psychological contact.",
+     "The first, the client, is in a state of incongruence, being vulnerable or anxious.",
+     "The second person, the therapist, is congruent (real or genuine) in the relationship.",
+     "The therapist experiences unconditional positive regard for the client.",
+     "The therapist experiences an empathic understanding of the client's internal frame of reference and endeavors to communicate this experience to the client.",
+     "The communication to the client of the therapist's empathic understanding and unconditional positive regard is, to a minimal degree, achieved."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Rogers held that \"no other conditions were necessary\" (Corey, 2013, p. 182) and that these conditions do not vary by client type; they are, in his view, both necessary and sufficient on their own for constructive change to occur. Three of the six conditions have since become known as the therapeutic \"core conditions\" and are treated separately, and at length, in Corey's (2013) account."
+   },
+   {
+    "t": "p",
+    "x": "Congruence, or genuineness, means that the therapist is \"real: that is, they are genuine, integrated, and authentic during the therapy hour,\" without \"a false front,\" so that \"their inner experience and outer expression of that experience match\" (Corey, 2013, p. 182). Congruence does not require the therapist to disclose every reaction; self-disclosure \"must be appropriate, well timed, and have a constructive therapeutic intent\" (Corey, 2013, p. 183), but it does require that the therapist not feign acceptance while privately feeling disapproval, since, in Corey's account, \"counseling will be inhibited if the counselor feels one way about the client but acts in a different way\" (p. 183)."
+   },
+   {
+    "t": "p",
+    "x": "Unconditional positive regard (UPR) is \"deep and genuine caring for the client as a person,\" a caring that is \"nonpossessive and is not contaminated by evaluation or judgment of the client's feelings, thoughts, and behavior as good or bad\" (Corey, 2013, p. 183). Corey (2013) is careful to distinguish acceptance from approval: UPR is \"the recognition of clients' rights to have their own beliefs and feelings; it is not the approval of all behavior\" (p. 183). Rogers's own research suggested that \"the greater the degree of caring, prizing, accepting, and valuing of the client in a nonpossessive way, the greater the chance that therapy will be successful\" (Rogers, 1977, as cited in Corey, 2013, p. 183)."
+   },
+   {
+    "t": "p",
+    "x": "Accurate empathic understanding requires the therapist to sense the client's \"subjective experience, particularly in the here and now\" (Corey, 2013, p. 183), without losing the therapist's own separateness. Corey (2013) is explicit that \"empathy is not sympathy, or feeling sorry for a client\" (p. 184); rather, it is the capacity to \"grasp the client's private world as the client sees and feels it... without losing the separateness of their own identity\" (p. 184). Watson (2002, as cited in Corey, 2013) reports that \"60 years of research has consistently demonstrated that empathy is the most powerful determinant of client progress in therapy\" (p. 184)."
+   }
+  ]
+ },
+ {
+  "h": "The Relevance of the Core Conditions",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "The core conditions matter for reasons beyond their historical role in launching the person-centred approach. Empirically, Corey (2013) notes that the core therapist conditions \"subsequently have been embraced by many therapeutic schools as essential in facilitating therapeutic change\" (p. 182): they underlie not only person-centred therapy but the working alliance assumed by cognitive-behavioural, psychodynamic, and virtually every other major approach, which is why Ivey and colleagues (2018) treat attending, empathy, and unconditional positive regard as foundational \"listening skills\" that precede and support every technique discussed later in their microskills model."
+   },
+   {
+    "t": "p",
+    "x": "The core conditions also carry demonstrated cross-cultural relevance, with important caveats. Cain (2008, 2010, as cited in Corey, 2013) argues that because the core conditions are \"qualities that are universal\" (p. 195), the person-centred approach travels well across cultures; Rogers's own workshops reached \"more than 30 countries\" and were \"translated into 12 languages\" (Corey, 2013, p. 194). At the same time, Corey (2013) documents real limitations: clients accustomed to more directive or indirect styles of communication \"may not be comfortable with direct expressions of empathy or self-disclosure\" (p. 195), and the approach's emphasis on an internal locus of evaluation, autonomy, and self-actualization can, in strongly collectivist cultures, be experienced as promoting a self-focus that \"may be viewed as being selfish\" (p. 195). This is directly relevant to the Indian context discussed above, where rapport-building may need to accommodate family involvement and hierarchical norms that Rogers's original, individualistically framed conditions did not anticipate; the conditions themselves remain relevant, but their expression must be adapted."
+   }
+  ]
+ },
+ {
+  "h": "Two Basic Assumptions Underlying the Core Conditions",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Two assumptions underlie Rogers's model and are worth making explicit, since virtually every later skill-based model discussed in this paper (Ivey's, Egan's, Carkhuff's) implicitly rests on them. The first is the actualizing tendency: the assumption that human beings possess an inherent, directional \"striving toward realization, fulfillment, autonomy, and self-determination\" (Brodley, 1999, as cited in Corey, 2013, p. 178), so that, in Rogers's own conviction, \"if one is able to get to the core of an individual, one finds a trustworthy, positive center\" (Rogers, 1987a, as cited in Corey, 2013, p. 178). This assumption places responsibility for change on the client rather than the counsellor and is the basis for Corey's (2013) observation that \"the main source of successful psychotherapy is the client\" (p. 176). The second assumption is that the therapeutic relationship's core conditions are themselves both necessary and sufficient for change, that is, that no additional technique, diagnosis, or expert intervention is required beyond a relationship characterised by congruence, unconditional positive regard, and empathy (Corey, 2013). This second assumption is also the one most later theorists have qualified rather than simply accepted; Ivey's microskills model, for instance, retains Rogers's relational conditions as its base but adds a large superstructure of deliberate, teachable skills above them, treating the conditions as necessary but not, on their own, sufficient for the more directive, action-oriented work counselling often requires."
+   }
+  ]
+ },
+ {
+  "h": "Ivey's Microskills Model",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Allen Ivey's microskills approach organises the entire practice of counselling into a single, cumulative hierarchy. Ivey and colleagues (2018) define microskills as \"the specific communication skills that provide ways for you to reach many types of clients,\" skills that \"clarify the 'how' of all theories of counseling and therapy\" (p. 11) and that a trainee masters \"one by one\" before \"integrat[ing] them into a well-formed session\" (p. 11). The hierarchy, illustrated as a pyramid, rests on a foundation of \"ethics, multicultural competence, neuroscience, positive psychology, and resilience,\" above which sit attending and observation skills, then the empathic basic listening sequence (questioning, encouraging, paraphrasing, summarizing, and reflecting feelings), then the five-stage interview structure that integrates these listening skills into a complete session, then the influencing skills (focusing, confrontation, reflection of meaning and interpretation, and concrete action strategies), and finally, at the apex, skills integration, the counsellor's own personal style, and transcendence (Ivey et al., 2018, pp. 11-13). This paper follows that same architecture, moving upward from attending through the listening skills to the stage models and, finally, to the influencing skills."
+   }
+  ]
+ },
+ {
+  "h": "Attending Skills",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Attending behaviour is, in Ivey's account, the single most basic counselling skill, and it is deliberately kept simple enough to be memorised as \"3 V's 1 B\": four \"simple but critical dimensions\" that must nonetheless \"be modified to meet individual and cultural differences\" (Ivey et al., 2018, p. 76). The four dimensions are (1) visual/eye contact; (2) vocal qualities, since \"your vocal tone and speech rate indicate much of how you feel about another person\" (p. 76); (3) verbal tracking, meaning the counsellor does not change the subject but keeps to the topic the client has introduced; and (4) body language/facial expression, meaning the counsellor faces the client naturally, leans slightly forward, and uses an expressive, encouraging face and gestures (Ivey et al., 2018)."
+   },
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) link attending behaviour directly to neuroscience. \"Appropriate listening lights up the brain\": in clients who experience being listened to well, activity increases in \"the reward system of the ventral striatum,\" in \"the medial PFC (mPFC), related to cognitive empathy,\" and in \"the right anterior insula,\" which is associated with affective empathy and emotional appraisal (p. 77). This neurological grounding is offered as an evidence base for a claim counsellors have long made informally: that simply being attended to, before any technique is applied, is itself therapeutic. The authors also situate attending within the broader neuroscience of skill acquisition, citing Shenk's (2010, as cited in Ivey et al., 2018) research on expertise to argue that \"natural talent may be there, but the real test is many hours and often years of detailed practice\" (p. 75), so that attending, like a musical or athletic skill, is a matter of intentional, repeated practice rather than innate personality."
+   }
+  ]
+ },
+ {
+  "h": "Observation Skills",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Where attending behaviour concerns what the counsellor does, observation concerns what the counsellor notices. Ivey and colleagues (2018) define observation as \"the act of watching carefully and intentionally with the purpose of understanding behavior\" (p. 84), and note that popular estimates hold that \"85% or more of communication is nonverbal\" (p. 84), so that how something is said can override the literal content of what is said. Observation operates on two fronts simultaneously: outward, toward the client's verbal and nonverbal behaviour, and inward, toward the counsellor's own reactions, since \"you learn as much about yourself and your counseling skills as you do about your clients during observation\" (p. 85). A key construct here is movement synchrony (or its opposite, movement dyssynchrony): when counsellor and client are \"in tune,\" their bodies tend to move in complementary patterns, and a break in that synchrony is itself diagnostic information about the state of the relationship (Ivey et al., 2018)."
+   }
+  ]
+ },
+ {
+  "h": "Micro and Macro Nonverbal Expressions",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Within the broader skill of observation, and treated at length in Ivey's chapter on reflecting feelings, is the distinction between macro and micro nonverbal behaviour. Macro nonverbals are \"relatively easy to see,\" as when \"the client may drop the eyes downward, twist away from you, and talk very quietly\" (Ivey et al., 2018, p. 161), a fairly unambiguous signal of difficulty with the topic at hand. Micro nonverbals are far briefer and easier to miss: \"fleeting expressions of concealed emotion, sometimes so fast that they happen in the blink of an eye, as fast as one-fifteenth of a second,\" which \"result from the individual's attempt to hide them\" (Matsumoto, Hwang, Skinner, & Frank, 2011, as cited in Ivey et al., 2018, p. 161). Ivey and colleagues (2018) note that the U.S. Federal Bureau of Investigation has studied microexpressions closely as clues to deception, and that with practice a counsellor can learn to notice them as reliably as macro nonverbals, and sometimes more usefully, though such expressions should generally be noted silently rather than confronted immediately, \"as often the client will not be aware of these underlying feelings\" (p. 161). Ivey and colleagues (2018) also summarise the specific nonverbal markers associated with the six commonly studied emotions: sadness (drooping eyelids, a downward mouth curve, slumped posture), anger (an upright, tense body, frowning, a forced vocal tone), happiness (smiling, open posture, pupil dilation), fear (increased breathing rate, averted eyes, playing with the fingers), disgust (a wrinkled nose and raised upper lip), contempt (a raised chin and a one-sided lip tightening), and surprise (wide eyes, raised eyebrows, a brief duration)."
+   }
+  ]
+ },
+ {
+  "h": "Questioning",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Questions form the first skill in Ivey's \"basic listening sequence\" and remain, in his assessment, both indispensable and easily overused. Ivey and colleagues (2018) distinguish two \"key styles of questioning.\" Open questions \"can't be answered in a few words\" and \"tend to facilitate deeper exploration of client issues,\" typically beginning with what, how, why, or could/would (p. 110). Closed questions, typically beginning with is, are, or do, \"enable you to obtain specifics and can usually be answered in very few words,\" but they leave \"the burden of guiding the talk\" with the counsellor rather than the client (p. 110). The opening word of a question predicts, in general, the kind of answer it draws out: what questions tend to elicit facts, how questions elicit process or feeling, why questions elicit reasons (and should be used cautiously, since many clients associate \"why\" with being interrogated), and could/can/would questions are considered maximally open because they explicitly leave the client free to decline (\"Could you tell me more about your situation?\") (Ivey et al., 2018, pp. 112-113)."
+   }
+  ]
+ },
+ {
+  "h": "Guidelines for Using Questions Well",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) are candid that questions can help or harm a session depending on how they are used, and they organise this into practical dos and don'ts. On the positive side, questions are often essential: information a client would never spontaneously volunteer, an unusual stressor, a hidden crisis, sometimes only emerges when directly asked, \"What else is going on in your life?\" (p. 112). Open questions are especially useful for beginning a session, helping a client elaborate a story already begun, and drawing out concrete specifics (\"Could you give me a specific example of...?\"), since \"concreteness is valuable in empathic understanding\" (p. 114)."
+   },
+   {
+    "t": "p",
+    "x": "On the cautionary side, Ivey and colleagues (2018) list several well-documented pitfalls. Bombardment or grilling, asking too many questions in a row, \"may give too much control to the interviewer and tend to put clients on the defensive\" (p. 115). Multiple questions asked at once can confuse a client about which question to answer. Questions used as disguised statements (\"Don't you think it would be helpful if you studied more?\") put the client on the spot while allowing the counsellor to avoid direct responsibility for the opinion; the authors' rule of thumb is blunt: \"If you are going to make a statement, do not frame it as a question\" (p. 115). Why questions specifically risk activating a client's past experience of being \"grilled\" and can provoke defensiveness (p. 116). Finally, and importantly for multicultural practice, \"in many non-Western cultures, questions are inappropriate and may be considered offensive or overly intrusive\" (p. 112); Ivey and colleagues (2018) recount an Australian Aboriginal colleague's direct feedback that an excess of questions can communicate distrust rather than interest, closing with the reminder that \"the issue, then, is how to use questions wisely and intentionally\" (p. 112) rather than to avoid or overuse them reflexively."
+   }
+  ]
+ },
+ {
+  "h": "Paraphrasing",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "If attending is the foundation, paraphrasing is, in Ivey's words, \"the most important cognitive empathic listening skill\" (Ivey et al., 2018, p. 137). Where an encourager repeats a client's own short phrase and a restatement repeats two or more of the client's exact words, a paraphrase covers considerably more ground, \"usually several sentences,\" and \"catches and distills the cognitive essence of what the client has said\" (p. 137) rather than simply repeating it."
+   }
+  ]
+ },
+ {
+  "h": "The Dimensions of Paraphrasing",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) break an accurate paraphrase down into four dimensions:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "A sentence stem, sometimes using the client's name, such as \"I hear you saying...,\" \"Sounds like...,\" or \"Looks like the situation is...\" (p. 137).",
+     "The client's key words, describing the situation or person in the client's own vocabulary rather than the counsellor's.",
+     "The essence of what the client has said, restated in briefer and clearer form; the counsellor's task is \"to stay true to the client's ideas but not repeating them exactly\" (p. 137).",
+     "A checkout for accuracy, inviting the client to confirm or correct the counsellor's understanding."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "The essence of paraphrasing, in other words, lies in this third dimension: distillation without distortion. A counsellor listening to a client complain, \"I'm really concerned about my wife... last night, we really saw the problem differently and had a terrible argument,\" might paraphrase, \"You're concerned about your picture-perfect wife who wants to work even though you have a good income, and you've had a terrible argument. Is that how you see it?\" (Ivey et al., 2018, p. 138), a response that compresses several sentences of client material into one accurate, checkable summary. When the paraphrase is accurate, \"the client is likely to reward you with a 'That's right'... and then go on to explore the issue in more depth\" (p. 137); once clients know they have been heard, Ivey and colleagues (2018) note, they typically stop repeating themselves and move forward, which is why accurate paraphrasing is described as helping \"the client stop repeating a story unnecessarily\" (p. 137)."
+   }
+  ]
+ },
+ {
+  "h": "Summarizing",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Summarizing sits on the same continuum as encouraging, restating, and paraphrasing, but spans a longer stretch of conversation, \"at times... an entire interview or even issues discussed by the client over several interviews\" (Ivey et al., 2018, p. 138). Where paraphrasing is primarily cognitive, summarizing typically folds in the client's emotional tone as well, and it can appear at any of three points in a session: at the start, to review what was discussed previously and set an agenda (\"Last time we talked about your feelings toward your mother-in-law... How did that go?\"); in the middle, to consolidate several threads before moving forward; and at the end, to close the session with a shared sense of what was covered and what comes next (Ivey et al., 2018, p. 139). Ivey and colleagues (2018) connect summarizing to \"Theory of Mind\" or mentalizing, the counsellor's holistic, integrated understanding of how the client thinks and feels, arguing that the skill \"supports the brain's executive functioning\" (p. 138) both for the client, who leaves the session with a clearer, more organised account of their own concerns, and for the counsellor."
+   }
+  ]
+ },
+ {
+  "h": "Encouragers",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Encouragers are the simplest members of the basic listening sequence: brief verbal or nonverbal signals, \"minimal verbal utterances ('ummm' and 'uh-huh'), head nods, open-handed gestures, and positive facial expressions,\" including supportive silence, that \"prompt clients to continue talking\" without directing what they say (Ivey et al., 2018, p. 136). A step up from the single-word encourager is the restatement, in which the counsellor repeats two or more of the client's own words exactly, which functions similarly but \"can direct clients more than you think\" depending on which words are selected (p. 136), since different word choices from the same client statement will lead the conversation in different directions. Ivey and colleagues (2018) caution that encouragers are easily miscalibrated: overused, they \"can seem wooden and lacking expression,\" while too few \"may suggest to clients that you are not interested\" (p. 136); and they note, simply, that \"smiling is an effective encourager\" (p. 137) whose warmth may matter as much as anything the counsellor says."
+   }
+  ]
+ },
+ {
+  "h": "Reflection of Feeling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Reflection of feeling is treated by Ivey and colleagues (2018) as the point at which the basic listening sequence reaches \"the heart of empathic understanding\" (p. 108). The skill has five components, again built around a formula. First, a sentence stem (\"I hear you are feeling...,\" \"Sounds like you feel...\") is chosen and varied so it does not become \"comical stereotypes\" (p. 160). Second, a feeling label is attached, an emotion word such as sad, glad, angry, or discouraged, with more than one label used for mixed feelings. Third, context or a brief paraphrase is added, using connective words such as \"about,\" \"when,\" or \"because\" to link the feeling to its source. Fourth, tense and immediacy are chosen deliberately: present-tense reflections (\"Right now, you look very angry\") tend to be more powerful than past-tense ones, though some clients find the past tense safer. Fifth, a checkout confirms accuracy (Ivey et al., 2018, pp. 160-161)."
+   },
+   {
+    "t": "p",
+    "x": "A related, lighter-weight skill is acknowledgment of feelings, \"a simple, brief recognition of feelings,\" useful in passing exchanges or with a harried service worker, where a full reflection would be excessive (Ivey et al., 2018, p. 161). Ivey and colleagues (2018) close the skill with a caution echoed throughout their text: reflection of feeling \"is a skill, but... it is also an art,\" and a counsellor who applies the formula too mechanically risks \"tak[ing] the authenticity out of the relationship\" (p. 161)."
+   }
+  ]
+ },
+ {
+  "h": "Stage Models of the Counselling Process",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Several authors have proposed structured, sequential models of what happens across the course of counselling, from first contact to termination. Four such models are compared here: Ivey's five-stage interview, Egan's three-stage skilled-helper model, Brammer and Shostrom's eight-stage process, and Carkhuff's three-phase model of helpee processing."
+   }
+  ]
+ },
+ {
+  "h": "Ivey's Five-Stage Model",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) propose that a full counselling session, once a counsellor is competent in the basic listening sequence, can be organised into five stages, summarised as \"the empathic relationship-story and strength-goals-restory-action framework\" (p. 11):"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "Empathic relationship: initiating the session and building rapport and structure.",
+     "Story and strength: drawing out the client's narrative, the concerns that brought them to counselling, while deliberately eliciting existing strengths alongside the problem.",
+     "Goals: clarifying what the client wants to have happen, an \"ideal\" outcome against which the current story can be compared.",
+     "Restory: working with the client to generate new ways of thinking about their story and new options for addressing it.",
+     "Action: helping the client generalise what has been learned in the session to daily life outside it (Ivey et al., 2018, p. 12)."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "This five-stage structure functions as a \"checklist for all your meetings with clients\" (Ivey et al., 2018, p. 12) rather than a rigid script; a skilled counsellor may move back and forth between stages within a single session, but the overall arc from relationship through story, goals, and restorying to action remains the underlying logic of a well-formed interview."
+   }
+  ]
+ },
+ {
+  "h": "Comparison with Egan's Three-Stage Model",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Egan's (2014) Skilled Helper model, though built on a different vocabulary, maps closely onto Ivey's five stages and is worth reading alongside it. Egan organises helping into three broad stages, each answering a different client question. Stage I, the Current Picture, asks \"What's going on?\" and corresponds closely to Ivey's \"story and strength\" stage: the client's narrative is drawn out, using the same core communication skills, tuning in, active listening, responding with empathy, that Ivey locates in attending and the basic listening sequence. Stage II, the Preferred Picture, asks \"What do I need or want?\" and parallels Ivey's \"goals\" stage, generating possibilities and narrowing them to a change agenda. Stage III, the Way Forward, asks \"How do I get what I need or want?\" and corresponds to Ivey's \"restory\" and \"action\" stages combined, generating possible strategies, selecting the best-fit strategy, and building it into a concrete plan."
+   },
+   {
+    "t": "p",
+    "x": "The two models therefore agree on the underlying sequence, current situation, desired situation, and plan of action, but differ in emphasis. Ivey's model gives the relationship its own explicit first stage and treats \"restorying\" (finding new meaning in the story) as a distinct step from \"action\" (behavioural follow-through); Egan folds relationship-building into the communication skills that run underneath all three stages rather than making it a discrete stage, and he places somewhat greater weight on the systematic generation and evaluation of \"possible strategies\" before a \"best fit\" strategy is chosen (Egan, 2014). Both models, however, share Egan's essential premise that helping is \"client-centered and outcome-focused\" (2014, p. 3) and Ivey's premise that structure exists to serve the client's own story rather than to impose the counsellor's agenda."
+   }
+  ]
+ },
+ {
+  "h": "Brammer and Shostrom's Eight Stages of Counselling",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "A second influential structural model, widely used in counselling-psychology training in the Indian context in particular (Rao, 1981), is the eight-stage sequence proposed by Brammer and Shostrom (1982, as cited in Rao, 1981). The eight stages are commonly presented as follows: (1) building the relationship, in which the counsellor establishes initial rapport and a sense of safety; (2) clarification of the problem, in which the client's concern is identified in the client's own terms; (3) structure, in which the counsellor and client agree on the nature, limits, goals, and practical parameters (time, confidentiality, roles) of the counselling relationship, a stage Gladding (2018) also emphasises when he defines structure as \"a joint understanding between the counselor and client regarding the characteristics, conditions, procedures, and parameters of counseling\" (Day & Sparacio, 1980, as cited in Gladding, 2018, p. 94); (4) relationship deepening, in which trust and disclosure increase beyond the initial rapport; (5) exploration, in which the client examines the problem and related feelings in greater depth; (6) consolidation, in which insights and options are drawn together into a coherent understanding; (7) planning, in which specific, actionable steps are agreed upon; and (8) termination, in which the relationship is deliberately and supportively closed."
+   },
+   {
+    "t": "p",
+    "x": "The value of the Brammer and Shostrom model, when set beside Ivey's and Egan's, is its explicit separation of structure and relationship deepening into their own stages, a level of granularity the other two models compress. Where Ivey treats the working relationship as a single opening stage and Egan folds structure-setting into the communication skills underlying all three of his stages, Brammer and Shostrom insist that clarifying the practical parameters of counselling (stage 3) is a distinct task from building rapport (stage 1) and from deepening trust once the relationship is already under way (stage 4), a distinction that is especially useful in settings, such as the Indian context discussed earlier, where establishing clear structure and expectations can itself be an important part of building client confidence in the process."
+   }
+  ]
+ },
+ {
+  "h": "Carkhuff's Model of Helping",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Robert Carkhuff (2008) frames counselling not primarily as a sequence of counsellor-led stages but as a sequence of helpee (client) processing phases that the counsellor's interpersonal skills exist to facilitate. Carkhuff distinguishes an unnumbered pre-helping phase, involving, in which the helpee is prepared for the work ahead by \"giving their undivided attention to personally relevant experiences\" (p. 19) and by beginning to focus on their own values and reasons for seeking help, from three numbered phases of what he calls intrapersonal processing:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "Phase I, Exploring: the helpee looks within to determine \"where they are in relation to their experiences,\" sharing personally relevant material \"with emotional immediacy\" and \"with specificity\" (Carkhuff, 2008, p. 20).",
+     "Phase II, Understanding: the helpee searches for the implications of what has been explored, identifying problems and \"generat[ing] remedies,\" expanding possible courses of action before narrowing to a preferred course (Carkhuff, 2008, p. 21).",
+     "Phase III, Acting: the helpee designs and implements concrete action steps, \"defining specific performance objectives, developing detailed programs to achieve those objectives\" (Carkhuff, 2008, p. 22)."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Carkhuff's (2008) model is deliberately client-centred in its labelling, exploring, understanding, and acting are things the helpee does, not things the helper does to them, which keeps it consistent with Rogers's assumption of an actualising tendency even as it adds the more structured, skills-based scaffolding that later became characteristic of Carkhuff's own \"human resource development\" training model. Set alongside Ivey's and Egan's models, Carkhuff's three phases correspond closely to Egan's three stages (exploring maps to the current picture, understanding to the preferred picture, acting to the way forward) and to the middle and later stages of Ivey's model (story maps to exploring, goals and restory map to understanding, and action maps directly to acting), which suggests that despite differing vocabularies, all three American models converge on the same underlying three-part logic: explore the present, clarify the desired future, and act to close the gap between them."
+   }
+  ]
+ },
+ {
+  "h": "A Comparative Summary of the Models",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Read together, the four stage models reviewed above, Ivey's five stages, Egan's three stages, Brammer and Shostrom's eight stages, and Carkhuff's three phases, describe the same underlying process at different levels of granularity rather than describing genuinely different processes. All four begin with some form of relationship-building or rapport (Ivey's \"empathic relationship,\" Egan's relational communication skills, Brammer and Shostrom's stage 1, Carkhuff's \"involving\"). All four include an exploratory phase in which the client's story or problem is drawn out (Ivey's \"story and strength,\" Egan's \"current picture,\" Brammer and Shostrom's \"clarification\" and \"exploration,\" Carkhuff's \"exploring\"). All four include a phase oriented toward understanding, meaning, or goal-setting (Ivey's \"goals,\" Egan's \"preferred picture,\" Brammer and Shostrom's \"consolidation,\" Carkhuff's \"understanding\"). And all four culminate in action and closure (Ivey's \"restory\" and \"action,\" Egan's \"way forward,\" Brammer and Shostrom's \"planning\" and \"termination,\" Carkhuff's \"acting\"). The models differ chiefly in how finely they subdivide these four underlying movements, Brammer and Shostrom's eight stages being the most granular and Carkhuff's three phases the most compressed, and in how much explicit attention each gives to structure-setting (most explicit in Brammer and Shostrom) and to the client's own agency in the process (most explicit in Carkhuff's helpee-centred vocabulary). For a practising counsellor, the practical implication is that no single stage model need be treated as the \"correct\" one; each offers a slightly different lens on the same underlying arc from relationship, through exploration and meaning-making, to action."
+   }
+  ]
+ },
+ {
+  "h": "Focusing",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Focusing is the skill, in Ivey's model, that moves counselling from an exclusively individual lens to a systemic one. Ivey and colleagues (2018) frame the rationale in explicitly ecological terms, quoting José Ortega y Gasset's observation that \"I am I and my circumstances; if I do not save my circumstances, I will not save myself\" (p. 203), and note that clients are always \"persons-in-relation\" and \"persons-in-community\" (p. 204) rather than isolated individuals. The skill matters practically as well as philosophically: research on multimorbidity shows that \"death comes five to seven years earlier to those who face multiple issues and concerns, particularly low income\" (Coventry, Small, Panagioti, Adeyemi, & Bee, 2015, as cited in Ivey et al., 2018, p. 204), so that a counsellor who attends only to the presenting individual concern, and misses the surrounding family, financial, or health context, risks missing what actually drives the client's difficulty."
+   }
+  ]
+ },
+ {
+  "h": "Types of Focusing",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) identify seven distinct foci a counsellor can choose, deliberately, at any point in a session:"
+   },
+   {
+    "t": "ol",
+    "items": [
+     "Client (individual) focus: attending to the unique client's own frame of reference, using their name and the word \"you\" to personalise the conversation.",
+     "Main theme or topic focus: attending to the central issue or story the client has raised, drawing out its details while also, deliberately, drawing out related strengths.",
+     "Others focus: attending to significant others in the client's life, a partner, family members, or friends, and their role in the situation.",
+     "Mutual (\"we\") focus: using language that includes the client, the counsellor, or the group as joint agents, \"we will work through this.\"",
+     "Counsellor focus: the counsellor briefly and appropriately sharing their own reactions or experience.",
+     "Cultural/environmental/contextual (CEC) focus: attending to broader issues of culture, community, and life history, including, where relevant, oppression or discrimination the client has experienced.",
+     "Immediacy or here-and-now focus: attending to what is happening between counsellor and client in the present moment of the session itself (Ivey et al., 2018, pp. 205-208)."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) illustrate the value of shifting focus with the case of Nelida, a graduate student made to feel like an outsider in her own classroom; by moving the focus from Nelida as an isolated individual to her family, her Cuban-American community, and the broader cultural dynamics of the classroom, the counsellor helps her reframe a painful, self-blaming experience as one of \"cultural oppression... internalized\" (p. 205) rather than personal failing, and helps her draw on her family and cultural background as a source of strength rather than a source of shame. The authors summarise the practical effect using an orchestral metaphor: a counsellor \"select[s] which instruments (ideas) to focus on, enabling a better understanding of the whole,\" and warns that a counsellor who focuses exclusively on the individual \"we need to be aware that we are not the only ones who can help clients\" (p. 208) risks missing the systemic factors that Moos's (2001, as cited in Ivey et al., 2018) research identifies as central to how clients actually experience and appraise their problems."
+   }
+  ]
+ },
+ {
+  "h": "Influencing Skills",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Where the basic listening sequence draws information and understanding out of the client, Ivey's influencing skills move the counsellor toward a more active contribution, always, the authors insist, without displacing the client's own agency: \"clients are the 'deciders'; our task is to help provide options, plus supporting and encouraging change,\" and influencing skills \"need to be used judiciously and sparingly\" (Ivey et al., 2018, p. 255). The influencing skills include self-disclosure, feedback, logical consequences, directives, and psychoeducation, together with the two skills singled out for detailed treatment below, reflection of meaning and interpretation/reframing."
+   }
+  ]
+ },
+ {
+  "h": "Interpretation and Reflection of Meaning",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Ivey and colleagues (2018) treat reflection of meaning and interpretation/reframing as closely related but distinct skills, both concerned with helping clients see their thoughts, feelings, and behaviour from a new vantage point. Reflection of meaning helps clients \"explore their own meanings and values in more depth from their own perspective,\" typically prompted by a version of the question \"What does ____ mean to you?\" (p. 259), and it is oriented toward helping clients discern life goals, values, and vision. Interpretation/reframing, by contrast, actively \"provide[s] the client with a new perspective, frame of reference, or way of thinking about issues,\" drawn from the counsellor's own observations, from a specific theoretical orientation, \"decisional, psychodynamic, or multicultural\" (p. 259), or from linking ideas the client has not yet connected. Ivey and colleagues (2018) draw the distinction sharply: \"clients generate their own meanings, whereas reframes usually come from the interviewer\" (p. 258)."
+   },
+   {
+    "t": "p",
+    "x": "The skill's importance is anchored, in Ivey's text, in the work of Viktor Frankl, to whom the relevant chapter is dedicated; Frankl's conviction that \"everything can be taken from a man but one thing: the last of the human freedoms, to choose one's attitude in any given set of circumstances\" (as cited in Ivey et al., 2018, p. 257) underlies the authors' claim that \"many believe that meaning is the most important influencing skill of all\" (p. 257), since finding meaning even in difficulty is what allows clients to sustain motivation for the harder work of behavioural and cognitive change."
+   }
+  ]
+ },
+ {
+  "h": "SOLER: Nonverbal Attending",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Gerard Egan's (2014) contribution to the skill of attending is the acronym SOLER, a set of guidelines for how a counsellor's body should visibly communicate engagement. Egan is explicit that these are guidelines rather than rules, to be adapted to individual and cultural difference, but the five components are: S, face the client Squarely, adopting \"a posture that indicates involvement\" (p. 76); O, adopt an Open posture, avoiding crossed arms or legs, which can signal \"lessened involvement with or availability to others\" (p. 76); L, Lean toward the client, since \"a slight inclination toward a person is often seen as saying, 'I'm with you'\" (p. 77), while leaning too far or too soon can feel intrusive; E, maintain good Eye contact, \"not the same as staring,\" though norms vary sharply across cultures, particularly where eye contact with an authority figure is concerned (p. 78); and R, stay Relaxed or natural, avoiding both nervous fidgeting and an artificial stiffness (Egan, 2014, p. 78)."
+   },
+   {
+    "t": "p",
+    "x": "Egan (2014) is careful to frame SOLER as a starting scaffold rather than a fixed script, since \"communication skills are particularly sensitive to cultural differences\" (p. 76). He recounts a striking example from a counsellor who taught SOLER to visually impaired clients at the Royal National College for the Blind, who found that eye contact (\"E\") had little relevance for her students but that \"attention on voice direction is extremely important,\" and who proposed adapting the acronym to SOLAR, replacing eye contact with \"Aim,\" aiming one's head and body in the direction of the client's voice (personal communication, as cited in Egan, 2014, p. 78). The anecdote underscores Egan's broader point: SOLER's value lies not in the literal posture but in the underlying \"respectful, empathic, genuine, and caring mind-set\" (p. 78) that the posture is meant to express, and that mind-set must be expressed differently for different clients."
+   }
+  ]
+ },
+ {
+  "h": "Characteristics of an Effective Counsellor",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Both Corey (2013) and Gladding (2018) argue that technique alone does not make an effective counsellor, and both ground this claim in research rather than opinion. Corey (2013) cites Wampold's (2001, as cited in Corey, 2013) meta-analysis of therapy-outcome studies, which found that \"personal and interpersonal components are essential to effective psychotherapy, whereas techniques have relatively little effect on therapeutic outcome\" (p. 19); clients themselves, in Lambert's (2011, as cited in Corey, 2013) research, \"place more value on the personality of the therapist than on the specific techniques used\" (p. 19)."
+   },
+   {
+    "t": "p",
+    "x": "Corey (2013) offers an extended list of the personal characteristics associated with effective therapists, characteristics he presents not as an all-or-nothing checklist but as a continuum against which counsellors can measure their own growth: an established sense of identity, knowing \"who they are, what they are capable of becoming, what they want out of life\"; genuine self-respect and appreciation; openness to change, shown by \"a willingness and courage to leave the security of the known\"; authenticity, being \"sincere and honest\" rather than hiding behind a professional facade; a sense of humour, including the ability to laugh at their own foibles; the capacity to admit mistakes without either dismissing or dwelling on them; a tendency to live in the present rather than being fixated on the past or future; cultural humility, an appreciation of how their own culture shapes them and respect for the diversity of others; sincere interest in others' welfare; strong interpersonal skills, the capacity to \"enter the world of others without getting lost in this world\"; deep involvement in their work; genuine passion; and, finally, the ability to maintain healthy boundaries, so that they \"don't carry the problems of their clients around with them during leisure hours\" (Corey, 2013, pp. 19-20)."
+   },
+   {
+    "t": "p",
+    "x": "Gladding (2018) arrives at a closely overlapping list through his \"Effective Counselor Self Examination,\" which asks trainees to rate themselves on qualities including being intellectually curious, capable of self-denial, self-aware, possessing a sense of humour, able to listen, empathic, emotionally insightful, introspective, comfortable with conversation, comfortable with power, and tolerant of intimacy (p. 8). Gladding (2018) links this personal dimension directly to technique, noting that effective counsellors \"use themselves as instruments\" in the counselling process (Brammer & MacDonald, 2003, as cited in Gladding, 2018, p. 8) and that \"there is a certain art to the choice and timing of counseling interventions\" (Wilcox-Matthew, Ottens, & Minor, 1997, as cited in Gladding, 2018, p. 8), an art that depends on the counsellor's own life experience and self-awareness rather than on technical knowledge alone."
+   }
+  ]
+ },
+ {
+  "h": "Comparing Gladding, Ivey, and Egan",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Placed side by side, Gladding, Ivey, and Egan represent three distinct but compatible entry points into the same field. Gladding's (2018) contribution is primarily architectural and historical: his account of counselling proceeds from definition (what counselling is, distinguished from guidance and psychotherapy), through the profession's ethical and institutional infrastructure (ethical codes, Division 17, licensure), through its historical development, to a survey of counselling settings and specialties. Gladding treats counselling as a profession to be understood in its social, institutional, and historical context, and his central unit of analysis is the profession itself."
+   },
+   {
+    "t": "p",
+    "x": "Ivey et al.'s (2018) contribution is primarily technical and pedagogical: his microskills hierarchy breaks the counselling interview down into discrete, teachable, evidence-based behaviours, attending, observation, questioning, paraphrasing, reflecting feelings, focusing, and influencing, each linked, where possible, to neuroscience and multicultural research. Where Gladding asks \"what is counselling and where did it come from,\" Ivey asks \"what, exactly, does a counsellor do, moment to moment, and how can it be taught and practised.\" Ivey's central unit of analysis is the individual communication skill, and his model is explicitly cumulative: each skill builds on the one beneath it in the pyramid, from ethics and attending at the base to personal style and transcendence at the apex."
+   },
+   {
+    "t": "p",
+    "x": "Egan's (2014) contribution sits between the two, closer to Ivey than to Gladding but organised around outcomes rather than discrete skills. Egan's three-stage, outcome-focused model (current picture, preferred picture, way forward) gives counsellors a structural sequence for an entire helping process, comparable to Ivey's five stages, while his insistence on \"client-directed and outcome-informed\" (2014, p. 8) practice and his three goals of helping (life-enhancing outcomes, learning to help oneself, developing a prevention mentality) give the process an explicit destination that Ivey's skills-focused text states less directly. Where Gladding is concerned with what counselling is, and Ivey with what a counsellor does, Egan is most concerned with what counselling should achieve."
+   },
+   {
+    "t": "p",
+    "x": "The three accounts are, in the end, complementary rather than competing. A counsellor trained only in Gladding's professional and historical framework would understand the field's institutions and boundaries but might lack a concrete technical vocabulary for the interview itself; a counsellor trained only in Ivey's microskills might master the moment-to-moment interview but lack Egan's explicit orientation toward measurable, life-enhancing outcomes, or Gladding's grounding in the profession's ethical and historical obligations. Reading the three together, as this paper has attempted to do, and setting them against Rogers's foundational core conditions, Carkhuff's helpee-centred phases, and Brammer and Shostrom's more granular staging, produces a more complete picture than any single text offers alone: counselling is, at once, a historically situated profession (Gladding), a teachable set of relational and technical skills (Ivey), and a structured, outcome-focused process (Egan), all resting on the same Rogerian foundation of congruence, unconditional positive regard, and empathic understanding."
+   }
+  ]
+ },
+ {
+  "h": "References",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Carkhuff, R. R. (2008). The art of helping (9th ed.). Possibilities Publishing."
+   },
+   {
+    "t": "p",
+    "x": "Corey, G. (2013). Theory and practice of counseling and psychotherapy (9th ed.)."
+   },
+   {
+    "t": "p",
+    "x": "Brooks/Cole, Cengage Learning."
+   },
+   {
+    "t": "p",
+    "x": "Egan, G. (2014). The skilled helper: A problem-management and opportunity-"
+   },
+   {
+    "t": "p",
+    "x": "development approach to helping (10th ed.). Brooks/Cole, Cengage Learning. Gladding, S. T. (2018). Counseling: A comprehensive profession (8th ed.). Pearson"
+   },
+   {
+    "t": "p",
+    "x": "Education. Ivey, A. E., Ivey, M. B., & Zalaquett, C. P. (2018). Intentional interviewing and"
+   },
+   {
+    "t": "p",
+    "x": "counseling: Facilitating client development in a multicultural society (9th ed.)."
+   },
+   {
+    "t": "p",
+    "x": "Cengage Learning. Rao, S. N. (1981). Counselling psychology. Tata McGraw-Hill. Case 1"
+   }
+  ]
+ }
+]

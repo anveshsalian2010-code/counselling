@@ -1,0 +1,3648 @@
+[
+ {
+  "initial": "NM",
+  "sessions": [
+   {
+    "n": 1,
+    "title": "Session 1",
+    "turns": [
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "Hi, I'm Shreya. Can I know your name? Initials are fine. How old are you?",
+      "skill": "Closed question",
+      "time": "0:03"
+     },
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "I am N. I'm 20 years old.",
+      "skill": "",
+      "time": "0:13"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "So, what's your family structure like?",
+      "skill": "Closed question",
+      "time": "0:15"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "I have a nuclear family. I live with my sister, mom and dad. My grandparents live close by. So, it's like 5 minutes away from here.",
+      "skill": "",
+      "time": "0:20"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "Elder sister or younger sister? So, what are your favourite things to do? Hobbies or sports or anything?",
+      "skill": "Closed question",
+      "time": "0:32"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "So, I crochet.",
+      "skill": "",
+      "time": "0:40"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "Oh, okay.",
+      "skill": "Minimal encourager",
+      "time": "0:43"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "I crochet. I'm not much of a sports person.",
+      "skill": "",
+      "time": "0:44"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "Oh, that's nice. Do you, like, post it on Instagram?",
+      "skill": "Encourager, Closed question",
+      "time": "0:48"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "Yes. I am more of a crafty person. So, I also do different things, like anything crafty, you know.",
+      "skill": "",
+      "time": "0:50"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "So, since when did you start doing these?",
+      "skill": "Closed question",
+      "time": "0:58"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "I started crochet about two years ago. And knitting, I have not knitted a lot. When I was a child, my grandmother would knit one or two things, something like that.",
+      "skill": "",
+      "time": "1:05"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "So, that was like your inspiration?",
+      "skill": "Questioning",
+      "time": "1:20"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "1:24"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "So, how are you doing today?",
+      "skill": "Open question",
+      "time": "1:26"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "Today is good. I'm moving in with my friend. I'm not very excited, but she is super excited about it.",
+      "skill": "",
+      "time": "1:29"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "Well, where have you been staying until now?",
+      "skill": "Closed question",
+      "time": "1:35"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "I've been staying in the college hostel most of the time. So, I've been here for, like, a month or so. There are quite a few issues in the hostel. That's why I'm moving out.",
+      "skill": "",
+      "time": "1:40"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "What are some issues which are very important?",
+      "skill": "Open question",
+      "time": "1:57"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "The issue that I have been facing now is the water. We don't get water in the washroom for a long time. Sometimes in the morning, there's no water even to brush our teeth. So, we go down to the mess hall to get water and come back up. And there are people who brush their teeth at the mess hall side. I kind of find that a little disgusting. So, for more than a month, I have had to go down to the mess hall. The whole going down, coming up, taking water up again, it's become a big hassle.",
+      "skill": "",
+      "time": "2:00"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "Yeah, it's like a morning stress. So, is it hindering your morning routine in any way?",
+      "skill": "Reflection of feeling; Closed question",
+      "time": "2:44"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "Kind of. Because there are a lot of people waiting to fill their buckets or mugs or whatever. So, that kind of hinders my morning routine. Sometimes I'm late to class. And because of me, even my friend gets late, because she waits for me so we can go to class together. So, a lot of time gets wasted in the morning for me.",
+      "skill": "",
+      "time": "2:53"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "Do you have fixed time for each routine there?",
+      "skill": "Closed question",
+      "time": "3:20"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "Before I came to the hostel, I had a fixed schedule, and I would get my things done on time. Here it's become a lot more of a mess, I would say. The first two weeks were fine. It started in the third week, and since then nothing has worked. And it's still only the first term.",
+      "skill": "",
+      "time": "3:30"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "So, the whole morning routine is getting disrupted. Is it disrupting your day? Does it affect your day?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "3:52"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "Yes, it affects the whole day, even though it's just one part in the morning. I get super frustrated because of the whole waiting time, just standing there doing nothing when I could be doing something else.",
+      "skill": "",
+      "time": "4:02"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "Is there something you could do, like, maybe prepare the previous day?",
+      "skill": "Closed question",
+      "time": "4:15"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "Not really, because no matter how early I go, there are already people waiting. If I want to get water without waiting, I have to get up at 5 to avoid the problem. And I am someone who stays up late, so that doesn't work for me.",
+      "skill": "",
+      "time": "4:20"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "So, the whole situation is very stressful. It's a morning stressor, but it's okay towards the evening. What about at night? Is it the same situation?",
+      "skill": "Reflection of feeling; Paraphrasing; Closed question",
+      "time": "4:45"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "After 8 o'clock, there's no water. Because I don't have a bath in the morning, I have to have a bath in the evening, and I have to have it before 8 o'clock, before the water runs out.",
+      "skill": "",
+      "time": "5:00"
+     },
+     {
+      "id": "T16",
+      "who": "T",
+      "text": "Do they really stop the water, or is there, like, a water leak? Is that the problem?",
+      "skill": "Closed question",
+      "time": "5:10"
+     },
+     {
+      "id": "C16",
+      "who": "C",
+      "text": "They stop the water. There's some problem with the water.",
+      "skill": "",
+      "time": "5:15"
+     },
+     {
+      "id": "T17",
+      "who": "T",
+      "text": "Okay.",
+      "skill": "Minimal encourager",
+      "time": "5:23"
+     },
+     {
+      "id": "C17",
+      "who": "C",
+      "text": "If the water keeps flowing in the building, it gets damaged, so there's a leak somewhere. I'm not very sure. Yeah, so they stop the water up here.",
+      "skill": "",
+      "time": "5:24"
+     },
+     {
+      "id": "T18",
+      "who": "T",
+      "text": "And the water comes back at, like, 8?",
+      "skill": "Closed question",
+      "time": "5:40"
+     },
+     {
+      "id": "C18",
+      "who": "C",
+      "text": "8:30, 8:45 in the morning.",
+      "skill": "",
+      "time": "5:44"
+     },
+     {
+      "id": "T19",
+      "who": "T",
+      "text": "So, like, 12 hours without water. That must be very stressful.",
+      "skill": "Paraphrasing; Reflection of feeling",
+      "time": "5:48"
+     },
+     {
+      "id": "C19",
+      "who": "C",
+      "text": "Yeah, very much.",
+      "skill": "",
+      "time": "5:55"
+     },
+     {
+      "id": "T20",
+      "who": "T",
+      "text": "And sometimes you have to use drinking water for that?",
+      "skill": "Closed question",
+      "time": "5:57"
+     },
+     {
+      "id": "C20",
+      "who": "C",
+      "text": "Yeah...",
+      "skill": "",
+      "time": "6:01"
+     },
+     {
+      "id": "T21",
+      "who": "T",
+      "text": "Is there any way you can store water so that in the morning it wouldn't be that much of a hassle?",
+      "skill": "Closed question",
+      "time": "6:03"
+     },
+     {
+      "id": "C21",
+      "who": "C",
+      "text": "The thing is, if you store water, it gets used up. If I store water for my bath, other people use it, and then I can't use it.",
+      "skill": "",
+      "time": "6:10"
+     },
+     {
+      "id": "T22",
+      "who": "T",
+      "text": "So, the water you store doesn't stay yours. That must be very stressful.",
+      "skill": "Paraphrasing; Reflection of feeling",
+      "time": "6:21"
+     },
+     {
+      "id": "C22",
+      "who": "C",
+      "text": "Yeah, it is very, very stressful.",
+      "skill": "",
+      "time": "6:38"
+     },
+     {
+      "id": "T23",
+      "who": "T",
+      "text": "Maybe because you're moving away from home... Actually, it doesn't sound like a surprise for you. It sounds more like a relief when you say it.",
+      "skill": "Confrontation",
+      "time": "7:04"
+     },
+     {
+      "id": "C23",
+      "who": "C",
+      "text": "I am more of a free spirit. So, moving out was actually a very important thing, and it was a good thing that I moved. I feel a lot more independent and more responsible for myself. A lot of money gets saved that way too, because I know how expensive I can get. Now that I have set an amount of money, I'm like, okay, I can't spend much.",
+      "skill": "",
+      "time": "7:15"
+     },
+     {
+      "id": "T24",
+      "who": "T",
+      "text": "So, you feel you're much more independent financially than you were when you were at home?",
+      "skill": "Paraphrasing; Clarification",
+      "time": "7:52"
+     },
+     {
+      "id": "C24",
+      "who": "C",
+      "text": "Yeah. I spend a lot less on useless stuff.",
+      "skill": "",
+      "time": "7:59"
+     },
+     {
+      "id": "T25",
+      "who": "T",
+      "text": "What about going out? When you were at home, did you have to be home at a specific time?",
+      "skill": "Closed question",
+      "time": "8:08"
+     },
+     {
+      "id": "C25",
+      "who": "C",
+      "text": "Not really at home. That's there now, because I stay in the hostel. I have to be back by six. If I'm going to be late, I need to ask someone to cover for me. But usually, if I'm going out, I'm back by seven.",
+      "skill": "",
+      "time": "8:15"
+     },
+     {
+      "id": "T26",
+      "who": "T",
+      "text": "What about compared to home? Was it easier or difficult?",
+      "skill": "Closed question",
+      "time": "8:45"
+     },
+     {
+      "id": "C26",
+      "who": "C",
+      "text": "Home is a lot easier, I would say. As much as my dad would have an issue, I could still come back home at any time. There was one time I came home late from college, and I got scolded, like, super scolded. But I could still get home.",
+      "skill": "",
+      "time": "8:50"
+     },
+     {
+      "id": "T27",
+      "who": "T",
+      "text": "You mean, you got scolded even though it was because of college?",
+      "skill": "Paraphrasing; Clarification",
+      "time": "9:15"
+     },
+     {
+      "id": "C27",
+      "who": "C",
+      "text": "Yeah. They expected me by eight, but I was, like, two hours late. The thing is, I got stuck in traffic.",
+      "skill": "",
+      "time": "9:19"
+     },
+     {
+      "id": "T28",
+      "who": "T",
+      "text": "So, what happened with the traffic?",
+      "skill": "Open question",
+      "time": "9:32"
+     },
+     {
+      "id": "C28",
+      "who": "C",
+      "text": "It was raining like cats and dogs. When it rains, there's a whole lot of traffic in Karnaburi, and I got stuck in traffic for a couple of hours. So, it was bad.",
+      "skill": "",
+      "time": "9:38"
+     },
+     {
+      "id": "T29",
+      "who": "T",
+      "text": "So, what about your morning routine when you were at home? Was that different?",
+      "skill": "Open question",
+      "time": "9:48"
+     },
+     {
+      "id": "C29",
+      "who": "C",
+      "text": "Yeah, my morning routine was a lot better. I would get up at around six o'clock in the morning and leave home by seven, and I would reach college by eight. I had direct buses from my bus stop to my college, and they would drop me right in front. It was like a 20-minute ride. So, it was a lot more peaceful, and I had almost 35 minutes to myself. It was a lot more structured back then than it is now.",
+      "skill": "",
+      "time": "9:55"
+     },
+     {
+      "id": "T30",
+      "who": "T",
+      "text": "So, now that you're moving to your friend's house, do you think you could get back to your old routine?",
+      "skill": "Closed question",
+      "time": "10:48"
+     },
+     {
+      "id": "C30",
+      "who": "C",
+      "text": "Yeah, I think I could. I'd like to get back to a lot of my old things and do my work, but I'll also have to cook lunch and make something. So, it's a slight change. But I think I could get back to that, and I would be able to do it.",
+      "skill": "",
+      "time": "11:00"
+     },
+     {
+      "id": "T31",
+      "who": "T",
+      "text": "Are you okay or comfortable with cooking?",
+      "skill": "Closed question",
+      "time": "11:20"
+     },
+     {
+      "id": "C31",
+      "who": "C",
+      "text": "I mean, I can cook, but I'm not confident about cooking. Even though I can cook nicely, I get a bit nervous, because the two of us don't cook much. But my friend's cooking is really good. So, I'll be helping her with the cutting and all that, and she'll handle part of the housework. So, it's like a division of chores.",
+      "skill": "",
+      "time": "11:30"
+     },
+     {
+      "id": "T32",
+      "who": "T",
+      "text": "Are you excited or anxious about anything?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "12:10"
+     },
+     {
+      "id": "C32",
+      "who": "C",
+      "text": "I'm excited to begin living with her. I don't think I'm anxious about anything. It's going to be fine.",
+      "skill": "",
+      "time": "12:20"
+     },
+     {
+      "id": "T33",
+      "who": "T",
+      "text": "It depends on how long this should be. We've spoken for 12 minutes. We still have another half.",
+      "skill": "",
+      "time": "12:31"
+     },
+     {
+      "id": "C33",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "12:48"
+     },
+     {
+      "id": "T34",
+      "who": "T",
+      "text": "Do you miss your family, by the way?",
+      "skill": "Closed question",
+      "time": "12:55"
+     },
+     {
+      "id": "C34",
+      "who": "C",
+      "text": "I do. As I've mentioned, I want to go out with them, but I don't know... I miss him the most.",
+      "skill": "",
+      "time": "13:01"
+     },
+     {
+      "id": "T35",
+      "who": "T",
+      "text": "Okay. So, he's the person you're closest to. So, leaving all of them and moving, it must have been a hard time.",
+      "skill": "Paraphrasing; Reflection of feeling",
+      "time": "13:19"
+     },
+     {
+      "id": "C35",
+      "who": "C",
+      "text": "Yeah. When I came here, I cried. My family came to drop me, and then they had to leave. I was scared. I was like, what the hell? You guys are leaving. That was super scary. And then I just cried for, like, two to three days. I was just bummed out. But then, my roommate came to me and started to look after me. I was so emotional. Now that I'm used to her, I'm going to miss her when I move.",
+      "skill": "",
+      "time": "13:32"
+     },
+     {
+      "id": "T36",
+      "who": "T",
+      "text": "Oh yeah, when you moved. Did you feel that shift from being looked after to looking after yourself?",
+      "skill": "Reflection of meaning; Closed question",
+      "time": "14:30"
+     },
+     {
+      "id": "C36",
+      "who": "C",
+      "text": "Yeah, I did, I did. That happened. But, again, I got used to it.",
+      "skill": "",
+      "time": "14:39"
+     },
+     {
+      "id": "T37",
+      "who": "T",
+      "text": "Do you adjust well with new places?",
+      "skill": "Closed question",
+      "time": "14:50"
+     },
+     {
+      "id": "C37",
+      "who": "C",
+      "text": "Yeah, that's something I adjust to easily.",
+      "skill": "",
+      "time": "14:55"
+     },
+     {
+      "id": "T38",
+      "who": "T",
+      "text": "What do you call that... maybe your skill or ability, that you adjust well?",
+      "skill": "Closed question",
+      "time": "14:58"
+     },
+     {
+      "id": "C38",
+      "who": "C",
+      "text": "Yeah, yeah, I consider that an ability. Because not a lot of people adjust well. Even my roommate, she's still adjusting.",
+      "skill": "",
+      "time": "14:59"
+     },
+     {
+      "id": "T39",
+      "who": "T",
+      "text": "The language is okay, right? For getting by, you don't find that difficult?",
+      "skill": "Closed question",
+      "time": "15:18"
+     },
+     {
+      "id": "C39",
+      "who": "C",
+      "text": "I mean, I know it's hard for a lot of us. But at any point, if I need to speak to anybody, I can. So, language is fine.",
+      "skill": "",
+      "time": "15:20"
+     }
+    ],
+    "reflection": "As it was my first time conducting a session, I struggled with the ethical challenge of counselling N, my classmate. I felt very unsure of myself, so the session felt more like a casual conversation than therapy. I relied mostly on simple open and closed questions to build rapport. Next time, I need to use explicit structuring techniques right away to set clear professional boundaries and separate my role as a classmate from my role as a counsellor.",
+    "supervisor": "",
+    "date": "29-07-2026",
+    "duration": "15:44"
+   },
+   {
+    "n": 2,
+    "title": "Session 2",
+    "turns": [
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "Welcome back. I see you are much more smiley than the last time. How has the transition from the hostel to your friend's house been?",
+      "skill": "Open question",
+      "time": "0:01"
+     },
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "It was a very nice transition. Things are going well.",
+      "skill": "",
+      "time": "0:12"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "Do you feel at ease?",
+      "skill": "Closed question",
+      "time": "0:18"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "0:20"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "So, the problem has been solved?",
+      "skill": "Closed question",
+      "time": "0:21"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "Yeah, everything. A lot of other problems have also been solved.",
+      "skill": "",
+      "time": "0:24"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "Before we go into it, let's check: how are you feeling today?",
+      "skill": "Open question",
+      "time": "0:30"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "I am fine.",
+      "skill": "",
+      "time": "0:35"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "How were the morning chores and everything?",
+      "skill": "Open question",
+      "time": "0:37"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "Today I did most of the cooking. Usually my roommate cooks and I do the cutting and chopping, but today we switched roles. It was slightly stressful, because I was scared I would mess up.",
+      "skill": "",
+      "time": "0:40"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "Is it your first time cooking?",
+      "skill": "Closed question",
+      "time": "0:55"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "Since I moved here, yes.",
+      "skill": "",
+      "time": "0:58"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "I think I remember you saying you weren't that confident with cooking.",
+      "skill": "Tracking",
+      "time": "1:01"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "Yeah, yeah. I was slightly scared I would mess up the food. But it turned out okay.",
+      "skill": "",
+      "time": "1:05"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "I would say that's great.",
+      "skill": "Feedback, Encourager",
+      "time": "1:15"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "At least it was edible.",
+      "skill": "",
+      "time": "1:19"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "So, how was the travel, the commute?",
+      "skill": "Open question",
+      "time": "1:22"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "Today it was the bus again. A lot of stress, because a lot of people were shouting, and we were getting squished.",
+      "skill": "",
+      "time": "1:28"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "I don't think you get seats also, right?",
+      "skill": "Closed question",
+      "time": "1:38"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "Yeah, I got squished among a lot of people.",
+      "skill": "",
+      "time": "1:40"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "Students especially?",
+      "skill": "Closed question",
+      "time": "1:41"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "Yeah, a lot of people.",
+      "skill": "",
+      "time": "1:43"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "And sometimes you wish there was no college.",
+      "skill": "Reflection of feeling",
+      "time": "1:45"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "I wish they had a holiday. Yeah, oh my God. It's so tough, I can't even breathe. I had somebody in my way today, and I'm like, no, stay away.",
+      "skill": "",
+      "time": "1:48"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "But obviously you can't say that to them, because they are also probably feeling the same.",
+      "skill": "Reflection",
+      "time": "2:05"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "Yeah, I have to be empathetic there.",
+      "skill": "",
+      "time": "2:11"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "Now, if you were to get your license, would you say that would solve your problem?",
+      "skill": "Closed question",
+      "time": "2:15"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "2:21"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "Do you plan on getting a license?",
+      "skill": "Closed question",
+      "time": "2:23"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "All I have to do is get the papers done. I'll be going home in September, so that weekend I will apply for my license.",
+      "skill": "",
+      "time": "2:24"
+     },
+     {
+      "id": "T16",
+      "who": "T",
+      "text": "The papers, yeah?",
+      "skill": "",
+      "time": "2:38"
+     },
+     {
+      "id": "C16",
+      "who": "C",
+      "text": "Yeah, so I will get the papers done, and hopefully in one month I will get my license. So, it will be a lot more possible.",
+      "skill": "",
+      "time": "2:39"
+     },
+     {
+      "id": "T17",
+      "who": "T",
+      "text": "Are you getting it for both, like two-wheeler and four-wheeler? Did you take classes, or are you self- taught?",
+      "skill": "Closed question",
+      "time": "2:50"
+     },
+     {
+      "id": "C17",
+      "who": "C",
+      "text": "No, no, I took classes. But I will have to do, like, a recap before I go. While coming from Bangalore to here, I almost crashed my dad's car.",
+      "skill": "",
+      "time": "2:55"
+     },
+     {
+      "id": "T18",
+      "who": "T",
+      "text": "Oh, you drove it yourself?",
+      "skill": "Closed question",
+      "time": "3:08"
+     },
+     {
+      "id": "C18",
+      "who": "C",
+      "text": "I mean, not fully, but yeah. On the roads which were empty. Yeah, the highway.",
+      "skill": "",
+      "time": "3:09"
+     },
+     {
+      "id": "T19",
+      "who": "T",
+      "text": "That's good practice.",
+      "skill": "Encourager",
+      "time": "3:16"
+     },
+     {
+      "id": "C19",
+      "who": "C",
+      "text": "Yeah, I almost crashed my dad's car, and he was like, \"Get down!\" But yeah, it was fun actually.",
+      "skill": "",
+      "time": "3:17"
+     },
+     {
+      "id": "T20",
+      "who": "T",
+      "text": "The more practice you get, the better you become. Good, I believe in you. Now, coming back to our last session. So, you've overcome your water troubles, your hostel troubles. How does it feel to have overcome it?",
+      "skill": "Feedback; Focusing; Open question",
+      "time": "3:27"
+     },
+     {
+      "id": "C20",
+      "who": "C",
+      "text": "It feels good. More challenging, because when I was in the hostel, I didn't have much work to do. But now I have to do everything by myself. I mean, I stay in a house now. I do everything around the house. So yeah, there's a lot of cooking, a lot of basic cooking. And then washing clothes; we have a washing machine, but there's a lot of waiting for the washing machine. Back in the hostel, I had lots of sleep and time. The me time that I used to have, I won't say I don't have it anymore, but I feel like it's become a lot lesser.",
+      "skill": "",
+      "time": "3:47"
+     },
+     {
+      "id": "T21",
+      "who": "T",
+      "text": "Do you think maybe if you get used to the cooking and the cleaning, you'll find time for yourself?",
+      "skill": "Closed question",
+      "time": "4:40"
+     },
+     {
+      "id": "C21",
+      "who": "C",
+      "text": "I also do a lot of things for college. That is also one of the reasons why I don't have the time.",
+      "skill": "",
+      "time": "4:45"
+     },
+     {
+      "id": "T22",
+      "who": "T",
+      "text": "What about on the weekends? Do you get time for yourselves?",
+      "skill": "Closed question",
+      "time": "4:50"
+     },
+     {
+      "id": "C22",
+      "who": "C",
+      "text": "Yeah, yeah. On Saturdays, we usually have college, so we get back home, have lunch and rest. And then once we get up, we go for a walk. We talk about a lot of things. And then we come back for dinner, and then eat and sleep.",
+      "skill": "",
+      "time": "4:56"
+     },
+     {
+      "id": "T23",
+      "who": "T",
+      "text": "So, no roaming around?",
+      "skill": "Closed question",
+      "time": "5:21"
+     },
+     {
+      "id": "C23",
+      "who": "C",
+      "text": "Maybe exploring a little. Yeah.",
+      "skill": "",
+      "time": "5:24"
+     },
+     {
+      "id": "T24",
+      "who": "T",
+      "text": "So, you're waiting for your license for that.",
+      "skill": "Paraphrasing",
+      "time": "5:26"
+     },
+     {
+      "id": "C24",
+      "who": "C",
+      "text": "Okay, okay. Oh yeah, today we're going to the beach.",
+      "skill": "",
+      "time": "5:28"
+     },
+     {
+      "id": "T25",
+      "who": "T",
+      "text": "Oh, that's nice.",
+      "skill": "Minimal encourager",
+      "time": "5:36"
+     },
+     {
+      "id": "C25",
+      "who": "C",
+      "text": "I mean, both of us are going to the beach separately, not together.",
+      "skill": "",
+      "time": "5:38"
+     },
+     {
+      "id": "T26",
+      "who": "T",
+      "text": "Oh, okay.",
+      "skill": "Minimal encourager",
+      "time": "5:41"
+     },
+     {
+      "id": "C26",
+      "who": "C",
+      "text": "Yeah. There's a lot of exploring that happens within the campus.",
+      "skill": "",
+      "time": "5:44"
+     },
+     {
+      "id": "T27",
+      "who": "T",
+      "text": "Yeah. So, you're waiting for the license. Once you get that, do you think travel to college will also be easier?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "5:50"
+     },
+     {
+      "id": "C27",
+      "who": "C",
+      "text": "I think it would be a lot easier. We'd have a little bit more time to finish whatever we have to finish before we get to college.",
+      "skill": "",
+      "time": "6:05"
+     },
+     {
+      "id": "T28",
+      "who": "T",
+      "text": "Yeah, I think you wouldn't have to hurry for the bus. Do you have to walk to the bus stand or something?",
+      "skill": "Closed question",
+      "time": "6:12"
+     },
+     {
+      "id": "C28",
+      "who": "C",
+      "text": "Yeah, yeah, yeah.",
+      "skill": "",
+      "time": "6:19"
+     },
+     {
+      "id": "T29",
+      "who": "T",
+      "text": "So, that walking time also gets reduced.",
+      "skill": "Paraphrasing",
+      "time": "6:20"
+     },
+     {
+      "id": "C29",
+      "who": "C",
+      "text": "So, it saves a lot of time.",
+      "skill": "",
+      "time": "6:29"
+     },
+     {
+      "id": "T30",
+      "who": "T",
+      "text": "Even if you're late?",
+      "skill": "Closed question",
+      "time": "6:31"
+     },
+     {
+      "id": "C30",
+      "who": "C",
+      "text": "Yeah, we still get here. But if you miss the bus, then you have to take an auto and spend, like, 100 bucks on it. So, that's a whole different thing. But I feel like if I have a bike, it will be a lot easier.",
+      "skill": "",
+      "time": "6:32"
+     },
+     {
+      "id": "T31",
+      "who": "T",
+      "text": "So, how do you feel about your life now, living with your best friend?",
+      "skill": "Open question",
+      "time": "6:55"
+     },
+     {
+      "id": "C31",
+      "who": "C",
+      "text": "It feels good. I was a little nervous about living in a new place after the hostel, but everything is fine. Like I said, it's been a really nice experience. I always wanted to do this living-with-my-best- friend thing and all of that. But yeah, it's fun.",
+      "skill": "",
+      "time": "7:03"
+     },
+     {
+      "id": "T32",
+      "who": "T",
+      "text": "It has been on your bucket list?",
+      "skill": "Closed question",
+      "time": "7:23"
+     },
+     {
+      "id": "C32",
+      "who": "C",
+      "text": "Yes, it has been. One thing checked off my bucket list now.",
+      "skill": "",
+      "time": "7:28"
+     },
+     {
+      "id": "T33",
+      "who": "T",
+      "text": "I think you can name this as your Mangalore days.",
+      "skill": "",
+      "time": "7:33"
+     },
+     {
+      "id": "C33",
+      "who": "C",
+      "text": "I'm starting to take a lot of videos and photos.",
+      "skill": "",
+      "time": "7:36"
+     },
+     {
+      "id": "T34",
+      "who": "T",
+      "text": "That's really nice.",
+      "skill": "Feedback",
+      "time": "7:40"
+     },
+     {
+      "id": "C34",
+      "who": "C",
+      "text": "So, by the end of two years, I will have a lot of content.",
+      "skill": "",
+      "time": "7:42"
+     },
+     {
+      "id": "T35",
+      "who": "T",
+      "text": "Oh, you plan on making, like, a scrapbook or...?",
+      "skill": "Closed question",
+      "time": "7:50"
+     },
+     {
+      "id": "C35",
+      "who": "C",
+      "text": "I'm thinking of making a montage kind of video.",
+      "skill": "",
+      "time": "7:53"
+     },
+     {
+      "id": "T36",
+      "who": "T",
+      "text": "Oh, that's nice.",
+      "skill": "Minimal encourager",
+      "time": "7:56"
+     },
+     {
+      "id": "C36",
+      "who": "C",
+      "text": "Yeah, putting all the memories together.",
+      "skill": "",
+      "time": "7:58"
+     },
+     {
+      "id": "T37",
+      "who": "T",
+      "text": "Okay, so I guess with this, we can say your goal right now would be getting your license.",
+      "skill": "Summarisation",
+      "time": "8:02"
+     },
+     {
+      "id": "C37",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "8:06"
+     },
+     {
+      "id": "T38",
+      "who": "T",
+      "text": "And then finding more me time. If you were given an ideal situation where you wouldn't have to do the chores, what would you do in your me time?",
+      "skill": "Summarisation; Open question",
+      "time": "8:07"
+     },
+     {
+      "id": "C38",
+      "who": "C",
+      "text": "Usually, after doing everything, it's around 10 o'clock, whether I'm finished with the work or not. But if we didn't have all this, we would be done by, like, 8:30, and then we would just be on our phones for the rest of the time. So, I would like to take a step back, keep my phone aside, and get my business started too.",
+      "skill": "",
+      "time": "8:20"
+     },
+     {
+      "id": "T39",
+      "who": "T",
+      "text": "Okay, so with your chores, do you get time for academic studying and assignments and all that?",
+      "skill": "Closed question",
+      "time": "9:08"
+     },
+     {
+      "id": "C39",
+      "who": "C",
+      "text": "Yeah, yeah.",
+      "skill": "",
+      "time": "9:14"
+     },
+     {
+      "id": "T40",
+      "who": "T",
+      "text": "So, that is not hindered. Do you have set times when you're doing your chores, or is it spontaneous?",
+      "skill": "Closed question",
+      "time": "9:15"
+     },
+     {
+      "id": "C40",
+      "who": "C",
+      "text": "It just happens. Usually, we finish our assignments, then get our dinner, and then do the chores and all that. It's not a set time, but we do it this way. So, it's very flexible.",
+      "skill": "",
+      "time": "9:26"
+     },
+     {
+      "id": "T41",
+      "who": "T",
+      "text": "Do you guys have different studying patterns, or is it the same for both of you?",
+      "skill": "Closed question",
+      "time": "9:45"
+     },
+     {
+      "id": "C41",
+      "who": "C",
+      "text": "She's more of a teacher, so she understands by explaining, and I'm someone who needs to be taught to understand.",
+      "skill": "",
+      "time": "9:55"
+     },
+     {
+      "id": "T42",
+      "who": "T",
+      "text": "Okay, that is perfect.",
+      "skill": "Feedback",
+      "time": "10:00"
+     },
+     {
+      "id": "C42",
+      "who": "C",
+      "text": "Like, so perfect. It's a lot easier for both of us. If I need to understand something, it's easier for me.",
+      "skill": "",
+      "time": "10:03"
+     },
+     {
+      "id": "T43",
+      "who": "T",
+      "text": "That's really nice. So, right now, one is the license, then your me time, and starting your business again. So, I think maybe a timetable for the chores will help.",
+      "skill": "Feedback; Summarisation",
+      "time": "10:14"
+     },
+     {
+      "id": "C43",
+      "who": "C",
+      "text": "I think I should, yeah.",
+      "skill": "",
+      "time": "10:34"
+     },
+     {
+      "id": "T44",
+      "who": "T",
+      "text": "One small step every day. See you next session.",
+      "skill": "Structuring (closing)",
+      "time": "10:37"
+     }
+    ],
+    "reflection": "My uncertainty about what to do next continued, and I felt insecure about whether I was gathering the client’s whole story. However, I noticed myself connecting her words to our theory classes, though I did not know how to act on it. I mainly used basic restatements and closed questions. Instead of just gathering facts, I should use reflection of feeling to explore the underlying stress of her dual relationship and transition.",
+    "supervisor": "",
+    "date": "12-08-2026",
+    "duration": "10:43"
+   },
+   {
+    "n": 3,
+    "title": "Session 3",
+    "turns": [
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "That's how we've been living so far.",
+      "skill": "",
+      "time": "0:08"
+     },
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "What would you say? Any more explanation to that?",
+      "skill": "Open question",
+      "time": "0:14"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "It's just pretty normal.",
+      "skill": "",
+      "time": "0:20"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "You had your exams recently? How did that go?",
+      "skill": "Closed question; Open question",
+      "time": "0:22"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "I'm confident with the answers I have written. I blabbered something in them. Now it's up to the teachers. They'll either be like, \"Oh my god, what the hell?\" or, \"Oh my god, nice answers.\"",
+      "skill": "",
+      "time": "0:32"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "So, we will do a little recap of our last session, which I assume was two weeks ago.",
+      "skill": "Structuring",
+      "time": "0:45"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "0:51"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "So, we spoke about your transit issues, your bus rides, the chores and studying. And I think we also established some goals, like making a tentative timetable. So, do you think you are sticking to those goals?",
+      "skill": "Summarisation; Closed question",
+      "time": "0:52"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "Well, I haven't been, as yet. But I feel like it's a lot easier now, since I've gotten used to it. My body is just used to getting things done.",
+      "skill": "",
+      "time": "1:12"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "And keeping some time for yourself?",
+      "skill": "Closed question",
+      "time": "1:28"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "It's getting a lot better, I would say. The transit issue is kind of still the same. In the morning, we take an auto to college, and in the evening, when we are going back, we take a bus. That bus ride is a lot more peaceful than the morning bus ride. I have to stick to it for a while, though I don't like it. I guess that's about it. Oh, and I was able to achieve a lot. But last week, something came up, so I couldn't. But I'm back at it. So, it's nice. We don't have to necessarily stick to the goals rigidly.",
+      "skill": "",
+      "time": "1:31"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "Any frustrations?",
+      "skill": "Open question (eliciting feelings)",
+      "time": "2:26"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "We don't have to stick to the goals strictly. We can keep some for other days.",
+      "skill": "",
+      "time": "2:27"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "Any frustrations right now?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "2:37"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "No. We've been chilling. We had neer dosa. It's nice to have company after a long time, with my roommate. Yesterday, for the first time in two months, we went out somewhere nearby and were chilling around.",
+      "skill": "",
+      "time": "2:39"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "Discovering new places.",
+      "skill": "Paraphrasing",
+      "time": "3:27"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "But, you know, our frustration is just... I know. We have to work.",
+      "skill": "",
+      "time": "3:31"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "So, right now you don't have any frustration, and that's a really good thing. Also, I see that you're so positive, even though you're tired.",
+      "skill": "Reflection of feeling; Feedback",
+      "time": "3:50"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "Yeah, a bit spent.",
+      "skill": "",
+      "time": "3:58"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "And you made time specifically to crochet. That's really good. Do you think you could continue this, even if there's a pressure situation, now that we have our practicals coming and assignments?",
+      "skill": "Feedback; Closed question",
+      "time": "3:59"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "Why not?",
+      "skill": "",
+      "time": "4:15"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "You think you could still manage the time?",
+      "skill": "Closed question",
+      "time": "4:20"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "I think I'll manage it well. It's cool.",
+      "skill": "",
+      "time": "4:25"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "You don't feel stressed out?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "4:48"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "Even yesterday, after college, I was still chill. I went to the VH and everything. So, I think... Like, as a previous college student, I studied at Christ. The amount of things that we had to do was insane. They'd give us a topic today and ask us to submit it tomorrow. And it wasn't just one subject, it was all the subjects. Within one day, we'd have, like, three or four subjects to do. So, for me, Christ has prepared me for that. So, I guess there's not going to be any pressure on me.",
+      "skill": "",
+      "time": "4:49"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "With the skills you've got from your college, you can use them here. Like, maybe, how did you manage them?",
+      "skill": "Paraphrasing; Open question",
+      "time": "5:59"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "At Christ, submissions were, like, within an hour. So, let's say I had to submit three subjects tomorrow, I would manage my time and try to finish it as fast as possible. But here, they're not trying to make you finish it fast. There, it was less about knowledge and more about finishing on time. They give you a lot to get your stuff done. Here, there's a lot more learning than finishing.",
+      "skill": "",
+      "time": "6:10"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "Okay. So, there it was about finishing the task. So, I can see how resilient you are. Even though you said you didn't have so much time, you made sure you submitted your assignments. You also have the skills to cope in high-pressure situations. That's really good. And I think we're almost close to what we had to do for today. Is there any other topic you have in mind? Did we leave anything out? So, I think you're in control, saying that you enjoyed your week.",
+      "skill": "Paraphrasing; Feedback; Open question",
+      "time": "7:16"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "Yeah, these whole two weeks.",
+      "skill": "",
+      "time": "8:05"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "You didn't give a lot of stress and pressure to yourself, even though there were exams, and you coped really well with it. So, maybe we can see how we continue to do better in the following week as well.",
+      "skill": "Feedback; Summarisation; Structuring (closing)",
+      "time": "8:12"
+     }
+    ],
+    "reflection": "I felt a major shift here as I consciously used specific skills from my theory classes, like paraphrasing and reflection of feeling. This helped me realize that there are many different ways I can approach a client to gather their narrative. I felt more confident in managing our classmate boundaries. To improve, I could use advanced empathy and open questions to explore her underlying emotional patterns more deeply.",
+    "supervisor": "",
+    "date": "02-09-2026",
+    "duration": "08:33"
+   },
+   {
+    "n": 4,
+    "title": "Session 4",
+    "turns": [
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "Hi, N, welcome back. It's good to see you. How are you doing today?",
+      "skill": "Open question",
+      "time": "0:01"
+     },
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "Today is good. I'm a little late today, but it's fine.",
+      "skill": "",
+      "time": "0:07"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "So, were you working on something the previous night that you had to catch up on?",
+      "skill": "Closed question",
+      "time": "0:32"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "Not really. I was travelling.",
+      "skill": "",
+      "time": "0:36"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "So, since we met last session, you had set a goal to make a timetable. Do you think you have been following that?",
+      "skill": "Focusing; Closed question",
+      "time": "0:47"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "Yeah, except yesterday. I mean, except yesterday, I have followed it, and I think the timetable is going really well.",
+      "skill": "",
+      "time": "1:00"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "Do you think you can continue it for a longer time?",
+      "skill": "Closed question",
+      "time": "1:08"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "Yeah, I think it would work for me in the long run, but I also feel like there are some changes that we can make as well.",
+      "skill": "",
+      "time": "1:10"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "What kind of changes?",
+      "skill": "Open question",
+      "time": "1:20"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "Changes like taking a small part of the study and adding it to the rest of the study, things like that.",
+      "skill": "",
+      "time": "1:25"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "So, now I can see you have stuck to your goals, you have stuck to the timetable, and that is very good. So, do you have anything else you'd like to talk about?",
+      "skill": "Paraphrasing; Open question",
+      "time": "1:47"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "I thought of starting again, but I haven't yet.",
+      "skill": "",
+      "time": "2:07"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "So, you said you are facing some issues with academics. You had exams recently, and you feel you didn't write enough for what was supposed to be written. How does that make you feel?",
+      "skill": "Paraphrasing; Open question (eliciting feelings)",
+      "time": "2:15"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "I was very anxious about that. I am not really sure about what I should be answering.",
+      "skill": "",
+      "time": "2:33"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "You said you didn't write enough. So, do you think you lacked preparation, or was it something else?",
+      "skill": "Paraphrasing,Closed question",
+      "time": "2:45"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "I don't think it was preparation.",
+      "skill": "",
+      "time": "2:56"
+     },
+     {
+      "id": "S1",
+      "who": "S",
+      "text": "Start with \"You said\".",
+      "skill": "",
+      "time": "2:57"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "You said you were not sure, or you didn't write enough in your paper. But we will discuss more on that.",
+      "skill": "Verbal Tracking",
+      "time": "2:59"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "I missed out a few things. There was one section I couldn't complete.",
+      "skill": "",
+      "time": "3:09"
+     },
+     {
+      "id": "S2",
+      "who": "S",
+      "text": "Paraphrase. Then check out, and then explore.",
+      "skill": "",
+      "time": "3:44"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "You said you blanked out when writing your exams for some concepts, and that made you feel anxious. You felt you weren't meeting your teacher's expectations for what you've written.",
+      "skill": "Paraphrasing; Reflection of feeling",
+      "time": "3:53"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "4:08"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "Now, if I ask, how did you study for your UG? How did you prepare for your exams?",
+      "skill": "Open question",
+      "time": "4:16"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "So, what I do is, for me, making notes is very important, because I cannot study everything. Just reading does not stick in the brain. You need to really write it down. So, I take notes, and I go through the notes. The day before the exam, I take out my notes and go through them.",
+      "skill": "",
+      "time": "4:28"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "Now, what do you think is the strength in that? What has helped you?",
+      "skill": "Open question (positive asset search)",
+      "time": "5:02"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "Whatever I did in my UG, I have to do now as well.",
+      "skill": "",
+      "time": "5:27"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "So, you said you have to prepare in the same way like you did for your UG, and that has helped you before.",
+      "skill": "Paraphrasing",
+      "time": "5:43"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "5:48"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "But right now, you are facing some difficulties, even though you're practising the same way.",
+      "skill": "Confrontation (discrepancy)",
+      "time": "5:52"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "I'm sure that I can do this.",
+      "skill": "",
+      "time": "5:58"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "What do you think might... I mean, do you think there could be something hindering your pattern of studying?",
+      "skill": "Closed question",
+      "time": "6:02"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "Pattern of studying? I don't know. I study with the same method, and I have the same kind of notes.",
+      "skill": "",
+      "time": "6:12"
+     },
+     {
+      "id": "S3",
+      "who": "S",
+      "text": "What is your plan?",
+      "skill": "",
+      "time": "6:27"
+     },
+     {
+      "id": "T16",
+      "who": "T",
+      "text": "So, you are saying you haven't changed your study pattern from your UG to your PG. But still, while giving exams, you seem to be blanking out. So, when you blank out, how does that feel?",
+      "skill": "Confrontation (discrepancy); Open question",
+      "time": "6:43"
+     },
+     {
+      "id": "C16",
+      "who": "C",
+      "text": "When I blank out, it's like my brain just stops. I can't think of anything. I just sit there. At that point, I'm not able to process what's happening.",
+      "skill": "",
+      "time": "7:07"
+     },
+     {
+      "id": "T17",
+      "who": "T",
+      "text": "So, how does that make you feel?",
+      "skill": "Open question (eliciting feelings)",
+      "time": "7:25"
+     },
+     {
+      "id": "C17",
+      "who": "C",
+      "text": "Anxious. I start feeling anxious when I'm blanking out. So, it's kind of scary.",
+      "skill": "",
+      "time": "7:30"
+     },
+     {
+      "id": "T18",
+      "who": "T",
+      "text": "So, you feel very anxious when you start blanking out, and that gives you a slight panic while you're writing. At the same time, does it affect the answers that you are writing?",
+      "skill": "Reflection of feeling; Closed question",
+      "time": "7:50"
+     },
+     {
+      "id": "C18",
+      "who": "C",
+      "text": "It does. It distorts my thoughts. Like, whatever I'm writing, I suddenly forget. And that keeps on going.",
+      "skill": "",
+      "time": "8:10"
+     },
+     {
+      "id": "T19",
+      "who": "T",
+      "text": "When you say it distorts your thoughts, what thoughts are going on in your mind?",
+      "skill": "Open question (eliciting concreteness)",
+      "time": "8:46"
+     },
+     {
+      "id": "C19",
+      "who": "C",
+      "text": "It's mostly trying to remember. But the more I try to remember, the more I forget.",
+      "skill": "",
+      "time": "8:56"
+     },
+     {
+      "id": "T20",
+      "who": "T",
+      "text": "So, as far as I've heard, your blanking out also affects your writing of other questions which you know well. And these recurring thoughts of \"You know it, you know it, you can write about it\" are what's making you more anxious and making you panic again?",
+      "skill": "Paraphrasing; Reflection of feeling; Checkout",
+      "time": "9:10"
+     },
+     {
+      "id": "S4",
+      "who": "S",
+      "text": "So, use a solution-focused approach. Use Ivey's five stages. Okay.",
+      "skill": "",
+      "time": "9:44"
+     },
+     {
+      "id": "T21",
+      "who": "T",
+      "text": "Now, you said in your UG days...",
+      "skill": "",
+      "time": "10:02"
+     },
+     {
+      "id": "S5",
+      "who": "S",
+      "text": "Right now, she's writing the exam.",
+      "skill": "",
+      "time": "10:08"
+     },
+     {
+      "id": "T22",
+      "who": "T",
+      "text": "Now I see that even though you feel a lot of panic while writing the exams, you are still resilient enough to complete your exams, sit through the whole paper and put forth whatever you know. And that is something I see, you being resilient. So, how do you make that happen? How do you make that happen?",
+      "skill": "Feedback; Eliciting Strengths; Open question",
+      "time": "10:18"
+     },
+     {
+      "id": "C20",
+      "who": "C",
+      "text": "I just write. I try to start with a clean slate.",
+      "skill": "",
+      "time": "10:51"
+     },
+     {
+      "id": "T23",
+      "who": "T",
+      "text": "So, what is your thought process when you tell yourself you have to do this? You said once you have started writing the exam, you have to complete it, you just want to get it over with, and that keeps you going. So, what do you keep telling yourself? What is that force that is driving you?",
+      "skill": "Open question; Paraphrasing; Reflection of meaning",
+      "time": "11:08"
+     },
+     {
+      "id": "C21",
+      "who": "C",
+      "text": "I think it's that I should get good marks. But even if I don't get really great marks, I would still get enough marks.",
+      "skill": "",
+      "time": "11:47"
+     },
+     {
+      "id": "T24",
+      "who": "T",
+      "text": "So, you are saying you don't mind not getting great marks, but your focus is on getting enough marks, which makes you complete the paper and just keep going, and you don't want to stop in between.",
+      "skill": "Paraphrasing",
+      "time": "12:02"
+     },
+     {
+      "id": "S6",
+      "who": "S",
+      "text": "And one of the forces is her parents.",
+      "skill": "",
+      "time": "12:23"
+     },
+     {
+      "id": "T25",
+      "who": "T",
+      "text": "It's more of a drive for you to continue working and not give up. Now, if you were to bring any changes to your current study style, what do you think you would do?",
+      "skill": "Reflection of meaning; Open question",
+      "time": "12:33"
+     },
+     {
+      "id": "S7",
+      "who": "S",
+      "text": "Explore the value. So, the driving force is parents. Explore the value that she has. Okay.",
+      "skill": "",
+      "time": "13:14"
+     },
+     {
+      "id": "T26",
+      "who": "T",
+      "text": "Okay, now you said your parents are your driving force to keep going. That makes sense. So, what value does it hold for you that makes you so dedicated?",
+      "skill": "Paraphrasing; Open question (reflection of meaning)",
+      "time": "13:25"
+     },
+     {
+      "id": "C22",
+      "who": "C",
+      "text": "For me to pass and get this degree, I have to write this exam. And as much as my parents want me to get good marks, I know for a fact that I'm trying my best. So, for me, I am trying to get there, but I'm also trying not to put too much pressure on myself, because at the end of the day, it's the skills that I require. Marks are required too, but it's more about the skills in our field. So, as much as I try to push myself, I'm not putting too much pressure on myself.",
+      "skill": "",
+      "time": "13:38"
+     },
+     {
+      "id": "T27",
+      "who": "T",
+      "text": "So, you are being softer to yourself. You want to achieve the skills rather than just getting the marks. You're also worried about your parents... I mean, your parents are worried about the marks, but at the same time, you're focusing on achieving the skills rather than the marks. Is that right?",
+      "skill": "Reflection of feeling; Paraphrasing; Checkout",
+      "time": "14:37"
+     },
+     {
+      "id": "S8",
+      "who": "S",
+      "text": "Do you see the discrepancy?",
+      "skill": "",
+      "time": "15:06"
+     },
+     {
+      "id": "T28",
+      "who": "T",
+      "text": "Possibly.",
+      "skill": "",
+      "time": "15:09"
+     },
+     {
+      "id": "S9",
+      "who": "S",
+      "text": "What's the difference? Summarise.",
+      "skill": "",
+      "time": "15:10"
+     },
+     {
+      "id": "T29",
+      "who": "T",
+      "text": "Summarise?",
+      "skill": "",
+      "time": "15:11"
+     },
+     {
+      "id": "S10",
+      "who": "S",
+      "text": "Summarise.",
+      "skill": "",
+      "time": "15:12"
+     },
+     {
+      "id": "T30",
+      "who": "T",
+      "text": "So, so far, we have seen that you talked to me about your concerns of blanking out while writing your exams, and that makes you feel anxious and gives you a sort of panic while writing the exams, which also hinders your writing of the questions that you already know. At the same time, you are also worried about your marks, but you also tell yourself that you are focusing more on the skills rather than the marks. You are also worried about your parents being worried about your marks. We have discovered that so far. Have I missed anything out?",
+      "skill": "Summarisation; Checkout",
+      "time": "15:13"
+     },
+     {
+      "id": "C23",
+      "who": "C",
+      "text": "No.",
+      "skill": "",
+      "time": "16:01"
+     },
+     {
+      "id": "T31",
+      "who": "T",
+      "text": "Okay. So, you also value marks, even though your focus is more on skills. Now, if we have to think about any change in your current study style, what would that be?",
+      "skill": "Confrontation (discrepancy); Open question",
+      "time": "16:05"
+     },
+     {
+      "id": "C24",
+      "who": "C",
+      "text": "For me, I'm more of a visual learner. I want to study and understand as well. So, maybe now that we have AI, where you can convert your notes into videos, I should try that. See how it goes.",
+      "skill": "",
+      "time": "16:35"
+     },
+     {
+      "id": "T32",
+      "who": "T",
+      "text": "Did you use the same technique when you were in UG?",
+      "skill": "Closed question",
+      "time": "17:04"
+     },
+     {
+      "id": "C25",
+      "who": "C",
+      "text": "Back in UG, all our lectures were on YouTube. So, I used to go through the concepts I needed. That's all I used to do. It was easy.",
+      "skill": "",
+      "time": "17:09"
+     },
+     {
+      "id": "T33",
+      "who": "T",
+      "text": "So, you are saying you are more of a visual learner, and you learn better when you watch it through a video. Is that right?",
+      "skill": "Paraphrasing; Checkout",
+      "time": "17:27"
+     },
+     {
+      "id": "C26",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "17:36"
+     },
+     {
+      "id": "T34",
+      "who": "T",
+      "text": "So, you said there are some AI applications that you can use to convert your notes to videos. You said earlier that you also like making notes, and you study better when you make notes. So, are those both techniques that you use? Is there something which supersedes the other, notes or videos?",
+      "skill": "Paraphrasing; Confrontation; Closed question",
+      "time": "17:37"
+     },
+     {
+      "id": "C27",
+      "who": "C",
+      "text": "Not really. Back in UG, I used to watch videos and take notes, in such a way that I can understand, with examples that I relate to real life. In UG, there was more of videos and notes. Teachers would send us videos.",
+      "skill": "",
+      "time": "18:02"
+     },
+     {
+      "id": "T35",
+      "who": "T",
+      "text": "So, I heard you say that in UG, you already had these videos present, and you would take down notes while watching the videos. So, the two styles of learning were going hand in hand. And right now in PG, you haven't checked if the videos are available, and you are making notes without the videos. So, do you think if you find videos, that will help you understand the concepts better? Remember them better?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "18:58"
+     },
+     {
+      "id": "C28",
+      "who": "C",
+      "text": "Yeah, I guess. Because things like flowcharts and all of that, you don't remember easily. So, for me, I have to see it and write it down.",
+      "skill": "",
+      "time": "19:34"
+     },
+     {
+      "id": "T36",
+      "who": "T",
+      "text": "So, as a visual learner, flowcharts and diagrams help you remember the concepts better and understand them better. And you also write it down in a way that only you can understand, and that writing also helps you remember. So, you are both a visual and, in fact, a tactile learner as well. So, that helps you learn effectively.",
+      "skill": "Paraphrasing; Feedback",
+      "time": "20:01"
+     },
+     {
+      "id": "S11",
+      "who": "S",
+      "text": "She is a visual learner. This is the way she can learn better. Currently, where is she?",
+      "skill": "",
+      "time": "20:26"
+     },
+     {
+      "id": "T37",
+      "who": "T",
+      "text": "Right now, you haven't searched if there are any videos available for whatever you are studying at this level, but you are just making notes. So, if you do find videos, that is going to help you learn better, is what I am getting. So, finding videos about the concepts, or maybe lectures online, is going to help you. Is that right? So, do you have any goals of finding such videos? Will you go back and search up those videos online for the concepts which are difficult for you?",
+      "skill": "Paraphrasing; Focusing (goal setting); Closed question",
+      "time": "20:40"
+     },
+     {
+      "id": "C29",
+      "who": "C",
+      "text": "So, for the next exams, I'll search online. But in case I don't find those videos, I was thinking of checking out those AI videos that I was talking about.",
+      "skill": "",
+      "time": "21:44"
+     },
+     {
+      "id": "T38",
+      "who": "T",
+      "text": "So, you are planning on going back and checking if these videos are available for concepts which you can't understand on your own, which you need external help for. If you don't find them, you are also going to take the help of AI to generate videos for those concepts. Is that right? Have you come across any applications which might help you?",
+      "skill": "Paraphrasing; Checkout; Closed question",
+      "time": "22:01"
+     },
+     {
+      "id": "C30",
+      "who": "C",
+      "text": "I've seen a lot of these videos on Instagram. I haven't explored it exactly.",
+      "skill": "",
+      "time": "22:47"
+     },
+     {
+      "id": "T39",
+      "who": "T",
+      "text": "So, you do know that there are applications available for users to turn their notes into videos, and you've seen many Instagram reels about it. So, do you feel like those might be as effective as the lectures which you were used to online?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "23:02"
+     },
+     {
+      "id": "C31",
+      "who": "C",
+      "text": "Again, I don't really know how it works. So, I will check it out.",
+      "skill": "",
+      "time": "23:33"
+     },
+     {
+      "id": "T40",
+      "who": "T",
+      "text": "So, you haven't explored it yet, but you do want to explore it. In case you find a video on YouTube, would you still go towards generating videos with AI?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "23:50"
+     },
+     {
+      "id": "C32",
+      "who": "C",
+      "text": "Not really. If I find it on YouTube, then of course I will use it. Because when somebody is teaching, they know how to explain it. In AI, whatever is there is just there. So, maybe YouTube videos will be more helpful.",
+      "skill": "",
+      "time": "24:02"
+     },
+     {
+      "id": "T41",
+      "who": "T",
+      "text": "So, as of now, we have talked about how you were facing issues in your academics, where you were blanking out on some concepts which were difficult (closing) for you, and that affected your attempts to write the other questions as well. And that sort of made you panic. You were also worried about your marks, and your parents are also worried about your marks. But at the same time, you are focusing more on the skills rather than the marks. And you also mentioned how you are a visual and tactile learner. You prefer watching videos of the concepts that are difficult for you, and taking down notes while you're watching the video. And as of now, you haven't searched any videos for your current PG concepts. And you also have a worry that you might not find them, so you are also thinking of using AI for converting your notes to videos. So, right now, I see your goal is to find videos which will help you understand some concepts better, which will also help you write your notes. And you also have AI applications which will help you generate those videos from your notes. Is that your goal right now? So, when your exams are coming, or maybe now, when you are done with the session, you could go back, search those videos up, and maybe look more into those AI applications. Maybe we can discuss more about it in the coming session. Thank you so much.",
+      "skill": "Summarisation; Goal setting; Structuring",
+      "time": "24:35"
+     },
+     {
+      "id": "C33",
+      "who": "C",
+      "text": "Thank you.",
+      "skill": "",
+      "time": "26:39"
+     }
+    ],
+    "reflection": "With continuous supervision, this was the first time I felt like a real counsellor. I successfully used positive asset searches and advanced confrontation to highlight the discrepancy between her study methods and her test anxiety. This helped me stay firmly in my professional role. Instead of relying much on the supervisor's live prompts, I need to trust my own intuition and use independent checkouts and paraphrasing techniques to guide the session..",
+    "supervisor": "My supervisor gave me great advice on how to improve my skills. She pointed out that I missed opportunities to explore the client’s physical symptoms of panic. She instructed me to use body mapping techniques in future sessions. This will help the client track where she feels stress in her body and learn simple ways to calm down during exam panic. She also mentioned in must focus on exploring more about the client’s story.",
+    "date": "16-09-2026",
+    "duration": "26:43"
+   },
+   {
+    "n": 5,
+    "title": "Session 5",
+    "turns": [
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "Hi N, it's good to see you again. How was your day so far?",
+      "skill": "Open question; rapport-building (greeting)",
+      "time": "0:00"
+     },
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "I'm a little sleepy. But other than that, it's been great.",
+      "skill": "",
+      "time": "0:09"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "You had your exams recently, how were those?",
+      "skill": "Open question; Focusing (on exams)",
+      "time": "0:16"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "I don't know. I feel like I've done it better than last time. But again, I don't know.",
+      "skill": "",
+      "time": "0:28"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "So you feel like you've done it better than your last time. So are there any changes?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "0:31"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "Changes? Changes in the sense?",
+      "skill": "",
+      "time": "0:39"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "Like, what made you feel that it was better than the previous exams?",
+      "skill": "Open question (clarification / eliciting concreteness)",
+      "time": "0:41"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "I've written a lot more content than before. But there was one thing I still forgot. I mean, there is an improvement, but there is also, like...",
+      "skill": "",
+      "time": "0:47"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "So you feel it's better because you've written a lot of contents, and you see a lot of improvement because you've written more, and there's also a part question where you say you've still forgotten some things. So, last time I remember you saying you wanted to find your study materials. Is it watching videos or creating AI-generated videos? Have you been successful in that?",
+      "skill": "Paraphrasing; Focusing; Closed",
+      "time": "1:02"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "I did not have that... I mean, I still haven't gotten those videos.",
+      "skill": "",
+      "time": "1:41"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "But like, have you been able to find any videos in the meantime?",
+      "skill": "Closed question",
+      "time": "2:12"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "Not yet, not yet. But there were a few concepts that we had in UG. Those concepts, I mean... I haven't searched for it. I genuinely don't know.",
+      "skill": "",
+      "time": "2:19"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "So you still haven't gone to search the videos or not? Have you generated the AI?",
+      "skill": "Clarification; Closed question",
+      "time": "2:40"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "I haven't searched. I haven't done a lot of research, but like the base... But the... Sorry. I don't know how to explain it. Like the base, I have videos, there's an in-depth explanation of the concepts, but I haven't done... Like, I haven't done my full research on this.",
+      "skill": "",
+      "time": "2:46"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "Okay, so the exams were relatively easy because you felt some concepts were ones you've learnt in UG, and also you have searched videos on the surface level, but not something in-depth.",
+      "skill": "Paraphrasing",
+      "time": "3:10"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "Yeah, I know.",
+      "skill": "",
+      "time": "3:23"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "Now, you also mentioned you felt panicky before doing exams, a feeling of blacking out. So did you feel the same this time as well?",
+      "skill": "Focusing (on presenting concern); Closed question",
+      "time": "3:27"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "This time, yes, I felt the same. But I was able to remember. But there was this one thing, I slept through the exam, the last exam, I just... passed out. But other than that, blacking out was there, but not as much as it was in the previous exam.",
+      "skill": "",
+      "time": "3:38"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "So you said you slept through one of the exams, and blacking out was there, but not as much as the previous exams. Is that right?",
+      "skill": "Paraphrasing; Checkout (closed question)",
+      "time": "4:06"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "4:16"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "So when you say blacking out, how does that feel for you?",
+      "skill": "Open question (eliciting concreteness)",
+      "time": "4:17"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "It's just that my mind just stops working. I'm not able to process what's happening. And then I start to panic, and there are a lot of thoughts, and that makes me panic.",
+      "skill": "",
+      "time": "4:25"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "So when you say everything freezes, do you feel it in your body? Is there a particular place that you feel?",
+      "skill": "Closed question (eliciting concreteness / bodily awareness)",
+      "time": "4:49"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "Yeah, so my hands start shivering, and I feel, like, chills. And my body feels like it stops me. Like, even if I want to, I'm like, \"Okay, get out of this\", I'm not able to handle my body.",
+      "skill": "",
+      "time": "4:57"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "So you say when you feel like you're panicking or when you're blacking out, your body freezes and you feel chills around your body, and also you have a lot of thoughts running in your head. But I also noticed that you're able to sit through your exams and then complete it. So how do you say you're getting over it?",
+      "skill": "Paraphrasing; Positive asset search; Open question",
+      "time": "5:20"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "So my body, as much as it freezes, it also unfreezes. Like, I just let it unfreeze. But if it takes too much time to unfreeze and get back, then I feel like... and then that panic leads to another panic, and then there's a whole other mess.",
+      "skill": "",
+      "time": "5:46"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "So when you say... So right now you said that your body also unfreezes at its own time, but if it takes too long, that will lead to another panic. So the cycle continues when you feel like you won't have enough time to complete the paper. Is that right?",
+      "skill": "Paraphrasing; Checkout (closed question)",
+      "time": "6:11"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "6:30"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "Okay, so when you say your body unfreezes, how does that feel like?",
+      "skill": "Open question (eliciting concreteness)",
+      "time": "6:33"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "My body starts moving again, and then my vision is back, and, like, everything around me makes more sense, and, like, I can see around me. It's not that I can't see, but, like, I don't know how to explain it, but, like, my vision gets blurry, and then there are tears in my eyes and all of that. So now, once my body unfreezes, like, I would start writing, my brain starts to think of the answers, so that I don't waste even more time on an answer when I'm already lost.",
+      "skill": "",
+      "time": "6:38"
+     },
+     {
+      "id": "T16",
+      "who": "T",
+      "text": "So while you're blacking out, you also feel like your vision is blurry, and there are tears in your eyes. Whereas when you start to unfreeze, when your body starts to unfreeze, your vision is back, you are more aware of your surroundings, and you feel much more in control. Are there any feelings attached to it? Do you feel anxious, sad or frustrated when that happens?",
+      "skill": "Paraphrasing; Closed question (eliciting feelings)",
+      "time": "7:36"
+     },
+     {
+      "id": "C16",
+      "who": "C",
+      "text": "There's a lot of anxiousness and frustration. Anxiousness because... Frustration, again, because I'm not able to, like, move on from that answer. So I move on to the next one. It's a tiny bit of anxiety, but, like, again, once my body is trying to get back to normal, then it's okay.",
+      "skill": "",
+      "time": "8:11"
+     },
+     {
+      "id": "T17",
+      "who": "T",
+      "text": "So you're saying when your body unfreezes, you get back in control, and maybe when your body is in the process, you feel anxious about it, and you feel frustrated about it, anxious because you're panicking, and that is making you...",
+      "skill": "Reflection of feeling",
+      "time": "8:48"
+     },
+     {
+      "id": "C17",
+      "who": "C",
+      "text": "So when my body freezes, there's... I'm not able to remember the answer.",
+      "skill": "",
+      "time": "9:14"
+     },
+     {
+      "id": "T18",
+      "who": "T",
+      "text": "So because you're not able to remember the answer, that makes you anxious. Is that right?",
+      "skill": "Reflection of feeling; Checkout (closed question)",
+      "time": "9:32"
+     },
+     {
+      "id": "C18",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "9:38"
+     },
+     {
+      "id": "T19",
+      "who": "T",
+      "text": "Okay. Now, when I...",
+      "skill": "",
+      "time": "9:38"
+     },
+     {
+      "id": "C19",
+      "who": "C",
+      "text": "Sorry.",
+      "skill": "",
+      "time": "9:41"
+     },
+     {
+      "id": "T20",
+      "who": "T",
+      "text": "What was that again?",
+      "skill": "Clarification (request to repeat)",
+      "time": "9:41"
+     },
+     {
+      "id": "C20",
+      "who": "C",
+      "text": "Uh, no, go ahead. Go ahead.",
+      "skill": "",
+      "time": "9:44"
+     },
+     {
+      "id": "T21",
+      "who": "T",
+      "text": "Now, do your thoughts change when your body unfreezes?",
+      "skill": "Closed question",
+      "time": "9:46"
+     },
+     {
+      "id": "C21",
+      "who": "C",
+      "text": "My thoughts will change, and I try to push it away, and I'm wasting even more time.",
+      "skill": "",
+      "time": "9:55"
+     },
+     {
+      "id": "T22",
+      "who": "T",
+      "text": "So you try to push it away. You said when you are stuck on an answer, you keep telling yourself, \"You question know this, get there.\" So now, again, when your body is unfreezing, what are some thoughts that you use to push the other thoughts away?",
+      "skill": "Restatement; Open",
+      "time": "10:07"
+     },
+     {
+      "id": "C22",
+      "who": "C",
+      "text": "There are no thoughts as such. So what I used to do is, I go through the whole question paper before I start writing, so that I know which ones I know and which ones I don't. So I try to look at those questions and try to start writing the answers that I know.",
+      "skill": "",
+      "time": "10:32"
+     },
+     {
+      "id": "T23",
+      "who": "T",
+      "text": "So you read the question paper beforehand, before you start to write, and you choose the questions which you prefer writing, which you know really well, and that helps you manage your time as well, and that shows that you are aware of what your capabilities are, you are aware of your abilities, you are aware of what you know, and you are also managing your time that way. And I can see that's a good quality. Now, have you been doing this in your previous exams as well?",
+      "skill": "Paraphrasing; Feedback (positive asset); Closed question",
+      "time": "11:04"
+     },
+     {
+      "id": "C23",
+      "who": "C",
+      "text": "Yeah. So I've been doing it. So this was a practice made by the school itself, so we would get 15 minutes of reading time. So in that 15 minutes of reading time, we would go through all the questions and think of all the answers before we could write it, and how to structure the answers.",
+      "skill": "",
+      "time": "11:43"
+     },
+     {
+      "id": "T24",
+      "who": "T",
+      "text": "So reading the question paper before you start to write is something which you've been practising since school, because you got 15 minutes to read, and that has helped you build it as a habit.",
+      "skill": "Paraphrasing",
+      "time": "12:09"
+     },
+     {
+      "id": "C24",
+      "who": "C",
+      "text": "Yeah. Till now.",
+      "skill": "",
+      "time": "12:24"
+     },
+     {
+      "id": "T25",
+      "who": "T",
+      "text": "Okay, so now what I see is, earlier you would feel, in the previous exam, you would feel a lot anxious about writing your exams, or you would feel stuck while writing your exams, I mean, a question which sometimes you didn't know. And in the recent exam, you didn't feel as anxious as the previous exam, and you are much more capable of getting yourself back to the present, where if your vision was blurry, you get your vision back, you are trying to unfreeze your body, it did happen much quicker than it was previously. And you also searched up some videos, even if it's not in-depth, you familiarise yourself with the basic concepts, and I see that you have somewhat touched upon the goals that we have decided earlier on. Do you want to work on these goals, or do you want to set something different?",
+      "skill": "Summarisation; Feedback; Closed question (goal review)",
+      "time": "12:26"
+     },
+     {
+      "id": "C25",
+      "who": "C",
+      "text": "I would like to stick to these goals.",
+      "skill": "",
+      "time": "13:39"
+     },
+     {
+      "id": "T26",
+      "who": "T",
+      "text": "So you are going to stick to finding videos, and you also said that you would prepare well for the end- sems, because that is probably the main goal. You would search up the videos; if not, you would create AI-generated videos. So, shall we set a goal, probably, that you would... Maybe... can I ask, when is your end-sem?",
+      "skill": "Paraphrasing; Focusing (goal setting); Closed question",
+      "time": "13:44"
+     },
+     {
+      "id": "C26",
+      "who": "C",
+      "text": "It's in November, I think it starts on the 4th.",
+      "skill": "",
+      "time": "14:21"
+     },
+     {
+      "id": "T27",
+      "who": "T",
+      "text": "So, by then, how many videos would you say you would search up? Or would you set your goal of searching some amount of videos per week?",
+      "skill": "Open question (eliciting concreteness / goal setting)",
+      "time": "14:26"
+     },
+     {
+      "id": "C27",
+      "who": "C",
+      "text": "I wouldn't be setting videos per week, but I would say each concept separately.",
+      "skill": "",
+      "time": "14:37"
+     },
+     {
+      "id": "T28",
+      "who": "T",
+      "text": "So are you going to divide it by subject or by concept?",
+      "skill": "Closed question",
+      "time": "14:54"
+     },
+     {
+      "id": "C28",
+      "who": "C",
+      "text": "No, it will be divided by subjects only.",
+      "skill": "",
+      "time": "15:01"
+     },
+     {
+      "id": "T29",
+      "who": "T",
+      "text": "So what are the subjects that you have? And how would you do it for your practical? Is it the same way?",
+      "skill": "Closed question",
+      "time": "15:02"
+     },
+     {
+      "id": "C29",
+      "who": "C",
+      "text": "Practical, I have to do it.",
+      "skill": "",
+      "time": "15:18"
+     },
+     {
+      "id": "T30",
+      "who": "T",
+      "text": "So, you are going to study the concepts by watching videos. You'd go concept-wise every week. So by, let's say, by 3rd, do you think you can cover most of the topics?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "15:28"
+     },
+     {
+      "id": "C30",
+      "who": "C",
+      "text": "Yeah, I think I can do that.",
+      "skill": "",
+      "time": "15:46"
+     },
+     {
+      "id": "T31",
+      "who": "T",
+      "text": "So, like, on a percentage, like 80 to 90 percent?",
+      "skill": "Closed question (eliciting concreteness)",
+      "time": "15:48"
+     },
+     {
+      "id": "C31",
+      "who": "C",
+      "text": "Yeah, I think I should be able to do that. Above 75 percent.",
+      "skill": "",
+      "time": "15:54"
+     },
+     {
+      "id": "T32",
+      "who": "T",
+      "text": "So, your aim is to cover almost 75 percent of your first-sem syllabus, the concepts, at least 75 percent of them, by 3rd of November, at least familiarise yourself with it by watching videos. So does that seem realistic, or do you want me to go in-depth by, like, we go each week?",
+      "skill": "Summarisation; Checkout (closed question)",
+      "time": "16:00"
+     },
+     {
+      "id": "C32",
+      "who": "C",
+      "text": "No, I think it's fine.",
+      "skill": "",
+      "time": "16:25"
+     },
+     {
+      "id": "T33",
+      "who": "T",
+      "text": "So right now, what we've discussed is, you are going to search up videos every week for each subject, which you will go concept-wise, and you're sure, I mean, you're almost, what do you say, giving a guarantee that you would reach up to, like, 75 percent of your concepts. Is that right?",
+      "skill": "Summarisation; Checkout (closed question)",
+      "time": "16:26"
+     },
+     {
+      "id": "C33",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "16:57"
+     },
+     {
+      "id": "T34",
+      "who": "T",
+      "text": "Okay, so I think we can discuss on the progress of it in the next session. Is there anything more you would like to discuss?",
+      "skill": "Structuring (closing); Open question",
+      "time": "16:57"
+     },
+     {
+      "id": "C34",
+      "who": "C",
+      "text": "Not really.",
+      "skill": "",
+      "time": "17:07"
+     },
+     {
+      "id": "T35",
+      "who": "T",
+      "text": "I think we covered everything that we were to discuss today. So we will discuss more about the progress in the next session. Thank you.",
+      "skill": "Structuring (closing)",
+      "time": "17:10"
+     },
+     {
+      "id": "C35",
+      "who": "C",
+      "text": "Thank you.",
+      "skill": "",
+      "time": "17:21"
+     }
+    ],
+    "reflection": "Keeping my supervisor's feedback in mind to improve my active listening. I focused heavily on expanding my exploring skills and delivering accurate, clear paraphrases to keep the session clinically grounded. This stopped me from slipping into casual classmate habits. Next time, I should integrate immediate body awareness questions right when she mentions physical panic, rather than waiting to address it later in the session.",
+    "supervisor": "",
+    "date": "07-10-2026",
+    "duration": "17:23"
+   }
+  ],
+  "age": "20",
+  "place": "Bangalore",
+  "occupation": "Student"
+ },
+ {
+  "initial": "J",
+  "sessions": [
+   {
+    "n": 1,
+    "title": "Pro Bono Session 1",
+    "turns": [
+     {
+      "id": "T1",
+      "who": "T",
+      "text": "So, hi. Thank you for coming, first of all, thank you for coming. My name is Shreya, and I'm a first- year MSc Psychology student. This is our counselling practical. So, this is our first internals. We will just have a counselling session. You are free to talk about any daily concerns that you have, or if you are comfortable with the recording. This is going to be confidential. And my supervisor is going to support us some time. So, any concerns?",
+      "skill": "Structuring (introduction, confidentiality and consent); Closed question",
+      "time": "0:00"
+     },
+     {
+      "id": "C1",
+      "who": "C",
+      "text": "Nothing like that.",
+      "skill": "",
+      "time": "0:46"
+     },
+     {
+      "id": "T2",
+      "who": "T",
+      "text": "So, I have this consent form, if you would mind giving. Thank you. So, this will be a 45–50 minutes session. So, towards the last five minutes, maybe we can summarise what we have talked about and what you expect by the end of the session. So, may I start with you introducing yourself?",
+      "skill": "Structuring",
+      "time": "0:49"
+     },
+     {
+      "id": "C2",
+      "who": "C",
+      "text": "My name is J. I'm in 3rd year B.Com professional. I'm ready.",
+      "skill": "",
+      "time": "2:33"
+     },
+     {
+      "id": "T3",
+      "who": "T",
+      "text": "Any hobbies or interests?",
+      "skill": "Open question",
+      "time": "2:45"
+     },
+     {
+      "id": "C3",
+      "who": "C",
+      "text": "I play keyboard.",
+      "skill": "",
+      "time": "2:47"
+     },
+     {
+      "id": "T4",
+      "who": "T",
+      "text": "You play it professionally?",
+      "skill": "Closed question",
+      "time": "2:53"
+     },
+     {
+      "id": "C4",
+      "who": "C",
+      "text": "I play in the church team. I've also tried dancing, but... I don't know.",
+      "skill": "",
+      "time": "2:57"
+     },
+     {
+      "id": "T5",
+      "who": "T",
+      "text": "It's okay. I don't know how you manage it all. Do you go to classes?",
+      "skill": "Minimal encourager; Closed question",
+      "time": "3:15"
+     },
+     {
+      "id": "C5",
+      "who": "C",
+      "text": "I finished them in school.",
+      "skill": "",
+      "time": "3:23"
+     },
+     {
+      "id": "T6",
+      "who": "T",
+      "text": "Oh, okay. So, do you play regularly?",
+      "skill": "Closed question",
+      "time": "3:24"
+     },
+     {
+      "id": "C6",
+      "who": "C",
+      "text": "No, not regularly.",
+      "skill": "",
+      "time": "3:28"
+     },
+     {
+      "id": "T7",
+      "who": "T",
+      "text": "Do you have any concerns?",
+      "skill": "Open question",
+      "time": "3:30"
+     },
+     {
+      "id": "C7",
+      "who": "C",
+      "text": "It's compulsory for professional students to take part in competitions, and we find it difficult. I don't know why it's compulsory. We have exams also, so we can't manage it. For the variety shows and other competitions, they tell you it's compulsory for every student. At that time, it's difficult. We wish they kept it voluntary for professional students, because we write our attempts at different times. Some write in January, some in May. So, it's difficult to get everyone to participate. And we are only getting 11 hours, and the minimum attendance is around 10 hours.",
+      "skill": "",
+      "time": "3:30"
+     },
+     {
+      "id": "T8",
+      "who": "T",
+      "text": "So, does your department mandate you to join?",
+      "skill": "Closed question",
+      "time": "4:51"
+     },
+     {
+      "id": "C8",
+      "who": "C",
+      "text": "It's compulsory.",
+      "skill": "",
+      "time": "4:54"
+     },
+     {
+      "id": "T9",
+      "who": "T",
+      "text": "These competitions come during your exams. Are you frustrated because of it?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "4:58"
+     },
+     {
+      "id": "C9",
+      "who": "C",
+      "text": "Look, it's manageable, it's fun and all that stuff, but we just want it not to be compulsory. Just make it voluntary.",
+      "skill": "",
+      "time": "5:07"
+     },
+     {
+      "id": "T10",
+      "who": "T",
+      "text": "Do you think if it's made voluntary, people would still show up?",
+      "skill": "Closed question",
+      "time": "5:16"
+     },
+     {
+      "id": "C10",
+      "who": "C",
+      "text": "At least then we could concentrate on our exams. That's it. Those who want to can come and do it.",
+      "skill": "",
+      "time": "5:22"
+     },
+     {
+      "id": "T11",
+      "who": "T",
+      "text": "Your exams are at different times, right?",
+      "skill": "Clarification",
+      "time": "5:31"
+     },
+     {
+      "id": "C11",
+      "who": "C",
+      "text": "Yeah, yeah, yeah.",
+      "skill": "",
+      "time": "5:32"
+     },
+     {
+      "id": "T12",
+      "who": "T",
+      "text": "Which exams are those?",
+      "skill": "Clarification",
+      "time": "5:37"
+     },
+     {
+      "id": "C12",
+      "who": "C",
+      "text": "These are the CA exams.",
+      "skill": "",
+      "time": "5:39"
+     },
+     {
+      "id": "T13",
+      "who": "T",
+      "text": "Oh, okay.",
+      "skill": "Minimal encourager",
+      "time": "5:44"
+     },
+     {
+      "id": "C13",
+      "who": "C",
+      "text": "I am talking about the CA exams and all these events. For the CA exam, you need to start early. It's not like you can start one month before. So, the events clash with that.",
+      "skill": "",
+      "time": "5:45"
+     },
+     {
+      "id": "T14",
+      "who": "T",
+      "text": "I mean, you have a separate plan for yourself. Does it come under the college?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "6:06"
+     },
+     {
+      "id": "C14",
+      "who": "C",
+      "text": "No. They don't mind us missing out, but then we miss classes. We get attendance, but we miss the teaching.",
+      "skill": "",
+      "time": "6:17"
+     },
+     {
+      "id": "T15",
+      "who": "T",
+      "text": "So, missing the teaching, how much does it affect you?",
+      "skill": "Closed question",
+      "time": "6:25"
+     },
+     {
+      "id": "C15",
+      "who": "C",
+      "text": "We have to go back and watch some YouTube videos.",
+      "skill": "",
+      "time": "6:28"
+     },
+     {
+      "id": "T16",
+      "who": "T",
+      "text": "What about asking your friends for help?",
+      "skill": "Open question",
+      "time": "6:33"
+     },
+     {
+      "id": "C16",
+      "who": "C",
+      "text": "Same thing.",
+      "skill": "",
+      "time": "6:39"
+     },
+     {
+      "id": "T17",
+      "who": "T",
+      "text": "So, right now, you are just studying for the exams, and then what is next?",
+      "skill": "Open question",
+      "time": "6:44"
+     },
+     {
+      "id": "C17",
+      "who": "C",
+      "text": "Now I am studying for Inter. After that, I don't know, I'll go on to the next level.",
+      "skill": "",
+      "time": "6:56"
+     },
+     {
+      "id": "T18",
+      "who": "T",
+      "text": "So, do you have to participate in each competition?",
+      "skill": "Closed question",
+      "time": "7:22"
+     },
+     {
+      "id": "C18",
+      "who": "C",
+      "text": "It's not compulsory for all of them. Some are compulsory. There are a variety of competitions.",
+      "skill": "",
+      "time": "7:28"
+     },
+     {
+      "id": "T19",
+      "who": "T",
+      "text": "Do you think it's going to be difficult to manage that?",
+      "skill": "Closed question",
+      "time": "7:39"
+     },
+     {
+      "id": "C19",
+      "who": "C",
+      "text": "I don't know. But then they combine this with other classes, and they still expect us to show up, right?",
+      "skill": "",
+      "time": "7:42"
+     },
+     {
+      "id": "T20",
+      "who": "T",
+      "text": "How do you usually manage it when it comes up? How did you do it in your previous school?",
+      "skill": "Open question",
+      "time": "7:51"
+     },
+     {
+      "id": "C20",
+      "who": "C",
+      "text": "I would just miss classes. During exams, they give us holidays, but otherwise I would miss classes.",
+      "skill": "",
+      "time": "8:07"
+     },
+     {
+      "id": "T21",
+      "who": "T",
+      "text": "So, you're missing some teaching. Do you feel upset about that?",
+      "skill": "Reflection of feeling (tentative)",
+      "time": "8:18"
+     },
+     {
+      "id": "C21",
+      "who": "C",
+      "text": "I wouldn't say upset, but a little not satisfied, because of the clash with the competitions. Even if you participate in the competition, you still have to keep studying.",
+      "skill": "",
+      "time": "8:30"
+     },
+     {
+      "id": "T22",
+      "who": "T",
+      "text": "So, you like participating. That's what I am hearing.",
+      "skill": "Paraphrasing; Checkout",
+      "time": "8:45"
+     },
+     {
+      "id": "C22",
+      "who": "C",
+      "text": "Yes, I like participating. The only thing is that we have to miss classes sometimes, because even when there are classes, we have to participate in those events.",
+      "skill": "",
+      "time": "8:48"
+     },
+     {
+      "id": "T23",
+      "who": "T",
+      "text": "So, you don't mind that you are missing classes?",
+      "skill": "Closed question",
+      "time": "9:00"
+     },
+     {
+      "id": "C23",
+      "who": "C",
+      "text": "I want to attend, because it's better if they teach us and then we go back home and study. Otherwise, we have to study everything from the start ourselves.",
+      "skill": "",
+      "time": "9:05"
+     },
+     {
+      "id": "T24",
+      "who": "T",
+      "text": "That's nice. Yeah, that's really good. How about your study strategies? Now, if there is an event just before an exam, how would you cope with it?",
+      "skill": "Feedback; Open question",
+      "time": "9:17"
+     },
+     {
+      "id": "C24",
+      "who": "C",
+      "text": "Before the CAs, right? I don't know. We would have participated, but by then we would have taken leave from college. Around a week before our CAs, we don't come to college.",
+      "skill": "",
+      "time": "9:32"
+     },
+     {
+      "id": "T25",
+      "who": "T",
+      "text": "So, was there any instance where an event was very close to the exam?",
+      "skill": "Closed question",
+      "time": "9:47"
+     },
+     {
+      "id": "C25",
+      "who": "C",
+      "text": "I don't know.",
+      "skill": "",
+      "time": "9:59"
+     },
+     {
+      "id": "T26",
+      "who": "T",
+      "text": "So, if there was, how would you have coped?",
+      "skill": "Open question",
+      "time": "10:01"
+     },
+     {
+      "id": "C26",
+      "who": "C",
+      "text": "I don't think I would have participated. But maybe I still would.",
+      "skill": "",
+      "time": "10:06"
+     },
+     {
+      "id": "T27",
+      "who": "T",
+      "text": "So, like you said, there's a clash. In one place you want to participate, and in the other place you have to study. Do you enjoy participating?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "10:13"
+     },
+     {
+      "id": "C27",
+      "who": "C",
+      "text": "Yes. But for group competitions, everybody has to come. If it's class-wise, you need everybody to participate. That's a problem, because everybody is writing different levels of CA at different times. Like, this time we had a competition, and most of us could not come for practice, because we had exams.",
+      "skill": "",
+      "time": "10:28"
+     },
+     {
+      "id": "T28",
+      "who": "T",
+      "text": "How about your studying style? How do you go about your studying?",
+      "skill": "Open question",
+      "time": "11:00"
+     },
+     {
+      "id": "C28",
+      "who": "C",
+      "text": "We used to sit together and concentrate on our exams.",
+      "skill": "",
+      "time": "11:08"
+     },
+     {
+      "id": "T29",
+      "who": "T",
+      "text": "So, what's your study plan when you have exams?",
+      "skill": "Open question",
+      "time": "11:26"
+     },
+     {
+      "id": "C29",
+      "who": "C",
+      "text": "That depends.",
+      "skill": "",
+      "time": "11:33"
+     },
+     {
+      "id": "T30",
+      "who": "T",
+      "text": "So, what made you choose CA?",
+      "skill": "Open question",
+      "time": "11:36"
+     },
+     {
+      "id": "C30",
+      "who": "C",
+      "text": "I don't know. When they introduced the course, they explained what you study, and it was interesting, very practical. In science, you might not actually get to do what you study. Commerce is actually practical. And CA has two options: you can work under someone, or you can start your own practice. So, that's nice.",
+      "skill": "",
+      "time": "11:48"
+     },
+     {
+      "id": "T31",
+      "who": "T",
+      "text": "So, has there been anybody who influenced you, or did you look up to somebody?",
+      "skill": "Closed question",
+      "time": "12:15"
+     },
+     {
+      "id": "C31",
+      "who": "C",
+      "text": "I don't know.",
+      "skill": "",
+      "time": "12:21"
+     },
+     {
+      "id": "T32",
+      "who": "T",
+      "text": "So, are you like the first in your family?",
+      "skill": "Closed question",
+      "time": "12:22"
+     },
+     {
+      "id": "C32",
+      "who": "C",
+      "text": "In my family, yeah. But my cousins, two of them are CAs.",
+      "skill": "",
+      "time": "12:27"
+     },
+     {
+      "id": "T33",
+      "who": "T",
+      "text": "Can I ask what your family structure is like?",
+      "skill": "Open question",
+      "time": "12:37"
+     },
+     {
+      "id": "C33",
+      "who": "C",
+      "text": "I live with my parents. I'm the only child.",
+      "skill": "",
+      "time": "12:40"
+     },
+     {
+      "id": "T34",
+      "who": "T",
+      "text": "Only child. You live with your parents?",
+      "skill": "Restatement; Closed question",
+      "time": "12:45"
+     },
+     {
+      "id": "C34",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "12:47"
+     },
+     {
+      "id": "T35",
+      "who": "T",
+      "text": "And then?",
+      "skill": "Minimal encourager",
+      "time": "12:48"
+     },
+     {
+      "id": "C35",
+      "who": "C",
+      "text": "Grandmother.",
+      "skill": "",
+      "time": "12:49"
+     },
+     {
+      "id": "T36",
+      "who": "T",
+      "text": "Grandmother. And being the only child, how is that?",
+      "skill": "Restatement; Open question",
+      "time": "12:50"
+     },
+     {
+      "id": "C36",
+      "who": "C",
+      "text": "Umm... It's fine.",
+      "skill": "",
+      "time": "12:53"
+     },
+     {
+      "id": "T37",
+      "who": "T",
+      "text": "But do people always say things about only children?",
+      "skill": "Closed question",
+      "time": "13:00"
+     },
+     {
+      "id": "C37",
+      "who": "C",
+      "text": "They do. But my family loves me.",
+      "skill": "",
+      "time": "13:10"
+     },
+     {
+      "id": "T38",
+      "who": "T",
+      "text": "Okay.",
+      "skill": "",
+      "time": "13:12"
+     },
+     {
+      "id": "C38",
+      "who": "C",
+      "text": "I hear people tell stories, like only children fight and all that.",
+      "skill": "",
+      "time": "13:14"
+     },
+     {
+      "id": "T39",
+      "who": "T",
+      "text": "Does that bother you?",
+      "skill": "Closed question",
+      "time": "13:20"
+     },
+     {
+      "id": "C39",
+      "who": "C",
+      "text": "No. I don't feel like that. That's it.",
+      "skill": "",
+      "time": "13:22"
+     },
+     {
+      "id": "T40",
+      "who": "T",
+      "text": "Coming back to your competitions and exams. What all competitions are you taking part in?",
+      "skill": "Focusing; Open question",
+      "time": "13:36"
+     },
+     {
+      "id": "C40",
+      "who": "C",
+      "text": "Last year there was a variety show, and then there was a dance competition, and some events happen twice or thrice.",
+      "skill": "",
+      "time": "13:48"
+     },
+     {
+      "id": "T41",
+      "who": "T",
+      "text": "So, have you got prizes as a class in the last two years?",
+      "skill": "Closed question",
+      "time": "14:15"
+     },
+     {
+      "id": "C41",
+      "who": "C",
+      "text": "Yes, we have got prizes. When everybody comes, we have a chance. But then, forcing them to come to practice is the hard part.",
+      "skill": "",
+      "time": "14:20"
+     },
+     {
+      "id": "T42",
+      "who": "T",
+      "text": "Do you feel bad because they are not attending, or because you are forcing them?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "14:30"
+     },
+     {
+      "id": "C42",
+      "who": "C",
+      "text": "They have so much work. If they have exams, they will tell you they're not joining because they have to study or whatever, so they don't come. If we have the minimum number of people for a competition, it still works. I don't know.",
+      "skill": "",
+      "time": "14:35"
+     },
+     {
+      "id": "T43",
+      "who": "T",
+      "text": "Are you the one who takes the initiative?",
+      "skill": "Closed question",
+      "time": "14:53"
+     },
+     {
+      "id": "C43",
+      "who": "C",
+      "text": "No.",
+      "skill": "",
+      "time": "14:56"
+     },
+     {
+      "id": "T44",
+      "who": "T",
+      "text": "You like taking the initiative?",
+      "skill": "Closed question",
+      "time": "14:58"
+     },
+     {
+      "id": "C44",
+      "who": "C",
+      "text": "I'm the CR of the class.",
+      "skill": "",
+      "time": "15:01"
+     },
+     {
+      "id": "T45",
+      "who": "T",
+      "text": "Does it usually fall on the CR to get people to participate?",
+      "skill": "Closed question",
+      "time": "15:04"
+     },
+     {
+      "id": "C45",
+      "who": "C",
+      "text": "Always.",
+      "skill": "",
+      "time": "15:08"
+     },
+     {
+      "id": "T46",
+      "who": "T",
+      "text": "Okay.",
+      "skill": "Minimal encourager",
+      "time": "15:09"
+     },
+     {
+      "id": "C46",
+      "who": "C",
+      "text": "If they are interested in something, they feel like they should participate.",
+      "skill": "",
+      "time": "15:10"
+     },
+     {
+      "id": "T47",
+      "who": "T",
+      "text": "Are your classmates used to it by now, since they've participated for two years and keep on participating? Or does it need convincing each time?",
+      "skill": "Closed question",
+      "time": "15:16"
+     },
+     {
+      "id": "C47",
+      "who": "C",
+      "text": "They participate, but then they will be like, \"I can't stay, I can't practice.\" So, for practices, they won't show up. For the competition, they will participate. But because they don't come for practice, it kind of messes up the whole thing.",
+      "skill": "",
+      "time": "15:29"
+     },
+     {
+      "id": "T48",
+      "who": "T",
+      "text": "How does that make you feel when they do that?",
+      "skill": "Open question (eliciting feelings)",
+      "time": "15:50"
+     },
+     {
+      "id": "C48",
+      "who": "C",
+      "text": "They have exams, so I can't say anything. I ask them to come, but they don't come.",
+      "skill": "",
+      "time": "15:55"
+     },
+     {
+      "id": "T49",
+      "who": "T",
+      "text": "Is it upsetting?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "16:03"
+     },
+     {
+      "id": "C49",
+      "who": "C",
+      "text": "No, it's not upsetting. Last year our class had a talent show in second year. They were finding it difficult, so I asked them to come, but because they had exams, they didn't come for practices. I understood. But then someone talked to the principal, and she said, \"You are not participating,\" and so they cancelled that.",
+      "skill": "",
+      "time": "16:05"
+     },
+     {
+      "id": "T50",
+      "who": "T",
+      "text": "Is the competition within the department?",
+      "skill": "Closed question",
+      "time": "16:38"
+     },
+     {
+      "id": "C50",
+      "who": "C",
+      "text": "Yeah. Other than the singing competitions, I don't take part, you know.",
+      "skill": "",
+      "time": "16:41"
+     },
+     {
+      "id": "T51",
+      "who": "T",
+      "text": "Okay, those are college events. You took part in those?",
+      "skill": "Closed question",
+      "time": "16:55"
+     },
+     {
+      "id": "C51",
+      "who": "C",
+      "text": "Competitions, you know. I didn't go for that.",
+      "skill": "",
+      "time": "16:59"
+     },
+     {
+      "id": "T52",
+      "who": "T",
+      "text": "So, you didn't go to any concerts or singing competitions?",
+      "skill": "Closed question",
+      "time": "17:07"
+     },
+     {
+      "id": "C52",
+      "who": "C",
+      "text": "No, that was in college, like a month before the exams.",
+      "skill": "",
+      "time": "17:13"
+     },
+     {
+      "id": "T53",
+      "who": "T",
+      "text": "You said it was in January, October and May.",
+      "skill": "Restatement",
+      "time": "17:24"
+     },
+     {
+      "id": "C53",
+      "who": "C",
+      "text": "January, September and May.",
+      "skill": "",
+      "time": "17:30"
+     },
+     {
+      "id": "T54",
+      "who": "T",
+      "text": "So, have you decided to start preparing, like, months before?",
+      "skill": "Open question",
+      "time": "17:32"
+     },
+     {
+      "id": "C54",
+      "who": "C",
+      "text": "Yeah.",
+      "skill": "",
+      "time": "17:37"
+     },
+     {
+      "id": "T55",
+      "who": "T",
+      "text": "With your classes, is it fine? Do you get time to manage your studies?",
+      "skill": "Closed question",
+      "time": "17:41"
+     },
+     {
+      "id": "C55",
+      "who": "C",
+      "text": "Yeah, we have classes till three, sometimes four.",
+      "skill": "",
+      "time": "17:57"
+     },
+     {
+      "id": "T56",
+      "who": "T",
+      "text": "Do you get time for yourself?",
+      "skill": "Closed question",
+      "time": "18:07"
+     },
+     {
+      "id": "C56",
+      "who": "C",
+      "text": "Yes. But right now, it's not that easy. There are different reasons for it.",
+      "skill": "",
+      "time": "18:18"
+     },
+     {
+      "id": "T57",
+      "who": "T",
+      "text": "So, in an ideal situation, where the classes get over and the exams are not close, if you had some time for yourself, what would you see yourself doing?",
+      "skill": "Open question",
+      "time": "18:32"
+     },
+     {
+      "id": "C57",
+      "who": "C",
+      "text": "I don't know, maybe... I don't know.",
+      "skill": "",
+      "time": "18:53"
+     },
+     {
+      "id": "T58",
+      "who": "T",
+      "text": "Like holidays?",
+      "skill": "Clarification",
+      "time": "19:06"
+     },
+     {
+      "id": "C58",
+      "who": "C",
+      "text": "Or with college, something like that.",
+      "skill": "",
+      "time": "19:07"
+     },
+     {
+      "id": "T59",
+      "who": "T",
+      "text": "So, you want to keep aside time for yourself? Maybe a hobby?",
+      "skill": "Closed question",
+      "time": "19:12"
+     },
+     {
+      "id": "C59",
+      "who": "C",
+      "text": "Keyboard. I play keyboard, and other instruments sometimes. There are others who play too.",
+      "skill": "",
+      "time": "19:16"
+     },
+     {
+      "id": "T60",
+      "who": "T",
+      "text": "So, you teach it also?",
+      "skill": "Closed question",
+      "time": "19:25"
+     },
+     {
+      "id": "C60",
+      "who": "C",
+      "text": "We play in the church. Singing also, I have done professionally, like non-classical.",
+      "skill": "",
+      "time": "19:29"
+     },
+     {
+      "id": "T61",
+      "who": "T",
+      "text": "From what I'm hearing from you now, you like participating, but you don't want it to be compulsory, and you don't like how it's planned. Is the inconsistency in planning making you feel upset or frustrated?",
+      "skill": "Summarisation; Reflection of feeling",
+      "time": "19:54"
+     },
+     {
+      "id": "C61",
+      "who": "C",
+      "text": "Not upset or frustrated. Just because it's hectic.",
+      "skill": "",
+      "time": "20:23"
+     },
+     {
+      "id": "T62",
+      "who": "T",
+      "text": "Is it exhausting?",
+      "skill": "Closed question (eliciting feelings)",
+      "time": "20:32"
+     },
+     {
+      "id": "C62",
+      "who": "C",
+      "text": "Yes.",
+      "skill": "",
+      "time": "20:33"
+     },
+     {
+      "id": "T63",
+      "who": "T",
+      "text": "You find it exhausting because you don't have enough time to study. Now, if you were given the chance, how would you plan it? Like, if you were given the power to plan the events.",
+      "skill": "Reflection of feeling; Open question",
+      "time": "20:36"
+     },
+     {
+      "id": "C63",
+      "who": "C",
+      "text": "I would plan time for both events and exams, so people are more willing to participate than when it's close to exams. Keep it, for example, two weeks before the exam, not one week. CA students prepare two or three months before and start serious preparation, so avoid events as much as you can during that time. And then it shouldn't be compulsory.",
+      "skill": "",
+      "time": "21:08"
+     },
+     {
+      "id": "T64",
+      "who": "T",
+      "text": "So, I can see that you are very interested in extracurriculars. Now, when it comes to your CA exams and your B.Com exams, do they also clash?",
+      "skill": "Paraphrasing; Focusing; Closed question",
+      "time": "21:52"
+     },
+     {
+      "id": "C64",
+      "who": "C",
+      "text": "Last year, in second year, I had a B.Com exam, and the next day I had a CA exam. We tried talking to them about postponing our exams, but they couldn't change it. I had just finished Foundation and was in the CA class in my first year. I was studying law in CA, and I don't have that in B.Com.",
+      "skill": "",
+      "time": "22:14"
+     },
+     {
+      "id": "T65",
+      "who": "T",
+      "text": "How did you manage it?",
+      "skill": "Open question",
+      "time": "23:07"
+     },
+     {
+      "id": "C65",
+      "who": "C",
+      "text": "The first time, there was only a one-day gap. I said, \"It's fine,\" and I took care of it.",
+      "skill": "",
+      "time": "23:11"
+     },
+     {
+      "id": "T66",
+      "who": "T",
+      "text": "Which one was difficult?",
+      "skill": "Open question",
+      "time": "23:21"
+     },
+     {
+      "id": "C66",
+      "who": "C",
+      "text": "B.Com.",
+      "skill": "",
+      "time": "23:23"
+     },
+     {
+      "id": "T67",
+      "who": "T",
+      "text": "How did you manage it?",
+      "skill": "Open question",
+      "time": "23:25"
+     },
+     {
+      "id": "C67",
+      "who": "C",
+      "text": "I finished off the B.Com work, because I had already studied it in CA, except for the college part. So, it was easy to finish.",
+      "skill": "",
+      "time": "23:27"
+     },
+     {
+      "id": "T68",
+      "who": "T",
+      "text": "For the B.Com exams, if it's from the college, do they not plan it accordingly, so the CA exams don't come on the same days?",
+      "skill": "Closed question",
+      "time": "23:47"
+     },
+     {
+      "id": "C68",
+      "who": "C",
+      "text": "It's not simple. There are a lot of people. We told the college to adjust our exams around the CA exams, but they can't change it, because others agree with the dates.",
+      "skill": "",
+      "time": "23:57"
+     },
+     {
+      "id": "T69",
+      "who": "T",
+      "text": "So, since you have already covered it in CA, you don't feel you need to put in much effort. And you said you listen to the lectures also. And some of your classmates are at different levels. Is there a difference there?",
+      "skill": "Paraphrasing; Closed question",
+      "time": "24:32"
+     },
+     {
+      "id": "C69",
+      "who": "C",
+      "text": "There are different levels.",
+      "skill": "",
+      "time": "24:58"
+     },
+     {
+      "id": "T70",
+      "who": "T",
+      "text": "So, you are at one level, they are at a different level. Does that cause any clashes?",
+      "skill": "Closed question",
+      "time": "25:11"
+     },
+     {
+      "id": "C70",
+      "who": "C",
+      "text": "It's only during competitions. If they have exams and we have exams, they're on different dates. They have exams, I have exams, that kind of thing.",
+      "skill": "",
+      "time": "25:31"
+     },
+     {
+      "id": "T71",
+      "who": "T",
+      "text": "Is there any specific way you get involved, like as a main event coordinator or something?",
+      "skill": "Closed question",
+      "time": "25:42"
+     },
+     {
+      "id": "C71",
+      "who": "C",
+      "text": "Yeah. As you said, I am the event manager. I am the host, the main organiser. So, there is that.",
+      "skill": "",
+      "time": "25:50"
+     },
+     {
+      "id": "T72",
+      "who": "T",
+      "text": "So, do you choose when you get to write your CA exams?",
+      "skill": "Closed question",
+      "time": "26:02"
+     },
+     {
+      "id": "C72",
+      "who": "C",
+      "text": "Yes, there is a time gap. Once you finish Foundation, after about a year, you can start writing. You can skip an attempt, because it's like trial and error. So, you can choose when you want to, but then it gets delayed.",
+      "skill": "",
+      "time": "26:07"
+     },
+     {
+      "id": "T73",
+      "who": "T",
+      "text": "Yeah, it's clear.",
+      "skill": "Minimal encourager",
+      "time": "26:25"
+     },
+     {
+      "id": "C73",
+      "who": "C",
+      "text": "If I go back to my school life, I would say studies were very important to me.",
+      "skill": "",
+      "time": "26:31"
+     },
+     {
+      "id": "T74",
+      "who": "T",
+      "text": "You are still very focused on your studies. What do you plan to do after this?",
+      "skill": "Feedback; Open question",
+      "time": "27:14"
+     },
+     {
+      "id": "C74",
+      "who": "C",
+      "text": "I don't know. Let's see.",
+      "skill": "",
+      "time": "27:39"
+     },
+     {
+      "id": "T75",
+      "who": "T",
+      "text": "So now, if you had to set goals for yourself, what would you say it would be?",
+      "skill": "Open question (goal setting)",
+      "time": "27:54"
+     },
+     {
+      "id": "C75",
+      "who": "C",
+      "text": "Finish my exams, I think.",
+      "skill": "",
+      "time": "28:07"
+     },
+     {
+      "id": "T76",
+      "who": "T",
+      "text": "Maybe a smaller one. Something smaller. Okay, maybe, let's say in this week, do you have any competition this week?",
+      "skill": "Focusing (concrete goal); Closed question",
+      "time": "28:10"
+     },
+     {
+      "id": "C76",
+      "who": "C",
+      "text": "There may be exams.",
+      "skill": "",
+      "time": "28:19"
+     },
+     {
+      "id": "T77",
+      "who": "T",
+      "text": "How do you plan your studies for the exams? How do you strategize?",
+      "skill": "Open question",
+      "time": "28:33"
+     },
+     {
+      "id": "C77",
+      "who": "C",
+      "text": "Now, I try to cover the portions, what is done and what is not done.",
+      "skill": "",
+      "time": "28:41"
+     },
+     {
+      "id": "T78",
+      "who": "T",
+      "text": "So, you usually stay on top of your study?",
+      "skill": "Closed question",
+      "time": "28:53"
+     },
+     {
+      "id": "C78",
+      "who": "C",
+      "text": "I don't think so. I'm just saying that now. I'm planning to start preparing for the January exams.",
+      "skill": "",
+      "time": "28:59"
+     },
+     {
+      "id": "T79",
+      "who": "T",
+      "text": "So, your goal would be to start preparing for the January exams. And you also have some tests.",
+      "skill": "Paraphrasing",
+      "time": "29:06"
+     },
+     {
+      "id": "C79",
+      "who": "C",
+      "text": "I don't have any tests.",
+      "skill": "",
+      "time": "29:14"
+     },
+     {
+      "id": "T80",
+      "who": "T",
+      "text": "Do you go for conferences? Like, is it not compulsory to attend conferences or any talks?",
+      "skill": "Closed question",
+      "time": "29:25"
+     },
+     {
+      "id": "C80",
+      "who": "C",
+      "text": "There is no compulsion for that in college. So, it's not compulsory.",
+      "skill": "",
+      "time": "29:50"
+     }
+    ],
+    "reflection": "I felt very nervous during this session because I was not sure of my clinical skills. My main focus was just making sure J felt comfortable. Because I was worrying so much about her comfort, I got stuck and did not know what to ask next. I used too many closed questions. Next time, instead of holding back out of fear, I should use simple verbal tracking and basic reflections of feeling to help the client open up more easily. Looking back, I realized I was too focused on searching for internal issues or stressors, but J’s problems were situational. Instead of searching for pathology, I should use opportunity-focused counselling to help her build on her strengths and manage her hectic schedule.",
+    "supervisor": "",
+    "date": "09-09-2026",
+    "duration": "34:31"
+   }
+  ],
+  "age": "20",
+  "place": "Mangalore",
+  "occupation": "Student"
+ }
+]
